@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/assets/icons/dead_rabbit.png" alt="NSF RABBIT" width="200"/>
+  <img src="assets/icons/dead_rabbit.png" alt="NSF RABBIT" width="200"/>
 </p>
 
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/assets/icons/nsf-rabbit-study-banner.png" alt="NSF RABBITS Study Logo" width="600"/>
+  <img src="assets/icons/nsf-rabbit-study-banner.png" alt="NSF RABBITS Study Logo" width="600"/>
 </p>
-
-[TOC]
 
 # About
 
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/assets/icons/contributors.png" alt="Contributors banner" width="600"/>
+  <img src="assets/icons/contributors.png" alt="Contributors banner" width="600"/>
 </p>
 
 ### What's this for?
@@ -19,7 +17,7 @@
 This repository serves as an experimental reporting system for documentation, materials, and analyses related to a NSF study investigating the microbial impact varying levels of insect diversity/carrion accessibility has on the microbiota of said carrion. More specifically, though, the materials here will reflect the elements of this study that contribute to my PhD dissertation and research—chiefly the microbiota of decomposition-associated entomofauna and how they compare.
 
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/assets/icons/maggot.png" alt="Maggot" width="100"/>
+  <img src="assets/icons/maggot.png" alt="Maggot" width="100"/>
 </p>
 
 ### A summary of the accessible information and materials:
@@ -33,7 +31,7 @@ This repository serves as an experimental reporting system for documentation, ma
 - Etc.
 
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/assets/icons/pupa.png" alt="Pupa" width="100"/>
+  <img src="assets/icons/pupa.png" alt="Pupa" width="100"/>
 </p>
 
 ### Disclosure(s)
@@ -41,7 +39,7 @@ This repository serves as an experimental reporting system for documentation, ma
 The work seen here is the product of a combined effort between Colorado State University's [Metcalf Lab](https://www.jessicalmetcalf.com/) and Sam Houston State University's [Bucheli Lab](https://www.shsu.edu/academics/biological-sciences/people/bucheli.html). The research and data generation was funded by a generous grant awarded by the National Science Foundation. The work associated with this grant spans far beyond the scope of the project and research discussed in this GitHub repository.
 
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/assets/icons/adult_fly.png" alt="Adult fly" width="130"/>
+  <img src="assets/icons/adult_fly.png" alt="Adult fly" width="130"/>
 </p>
 
 ### Associated presentations and publications
@@ -69,7 +67,7 @@ The work seen here is the product of a combined effort between Colorado State Un
 Decomposition studies were performed at the Pineywoods Environmental Researcher Station in Huntsville, Texas. The site featured well-wooded treelines and habored a mix of sandy soil and loamy soil. 
 
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/figures/Satellite Overview and Experimental Setup NSF SHSU (2x).png" alt="Site set-up" width="800"/>
+  <img src="figures/Satellite Overview and Experimental Setup NSF SHSU (2x).png" alt="Site set-up" width="800"/>
 </p>
 
 Three blocks were assigned at along different plots of the research center, with all conditions featuring some density of trees and uncut grass/vegetation underneath each enclosure.
@@ -79,7 +77,7 @@ Three blocks were assigned at along different plots of the research center, with
 Within each block there were 6 cages; and within each cage, 4 rabbits. Each cage represented a replicate wherein individual rabbit was exposed to a specific level of insect diversity (α = 0, 1, 2, and 3). Enclosures consisted of a PVC pipe cage wrapped in low-porosity chicken-wire. Zipties secured the chicken wire to the PVC. When decomposition studies were performed, fine mesh sacks were used to house the rabbits and the soil they decomposed in. These mesh sacks were secured to the top of the cage with bread ties over a foot above the ground beneath them in groups of four per cage. Plastic basins were placed underneath each rabbit to precent the mesh bags from making contact with the ground below during sampling events.
 
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/assets/icons/cage-setup-proper.png" alt="Cage set-up" width="300"/>
+  <img src="assets/icons/cage-setup-proper.png" width="300"/>
 </p>
 
 
@@ -107,7 +105,7 @@ Insects were sampled opportunistically when observed to be visiting the bait car
 ## Sample processing
 
 <p align="center">
-  <img src="/Users/grigsbyanthony/Library/CloudStorage/GoogleDrive-c837137582@rams.colostate.edu/My Drive/NSF-RABBITS-2025/figures/Sample processing.png" alt="Sample processing" width="600"/>
+  <img src="figures/Sample processing.png" alt="Sample processing" width="600"/>
 </p>
 
 ### Beetle samples
@@ -149,6 +147,10 @@ Fly samples were surface-sterilized much the same way as the beetles were, with 
 
 
 ## Sequence processing
+<p align="center">
+  <img src="figures/QIIME2 Bioinformatics Pipeline.png" width="700"/>
+</p>
+
 
 ### Quality checking
 

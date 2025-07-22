@@ -11,6 +11,9 @@
 .
 ├── assets
 ├── data/
+│   ├── visualizations/
+│   │   ├── taxonomy.qzv
+│   │   └── taxa-bar-plots.qzv
 │   ├── greengeens2-2024.09-515-806-nb-classifier.qza
 │   ├── merged-table-filtered-all.qza # Feature table filtered of mitochrondia, archaea, chloroplasts, and Unassigned taxa
 │   ├── metadata.tsv # Last updated 2025-7-21

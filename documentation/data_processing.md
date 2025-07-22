@@ -1,4 +1,5 @@
-> [!note] Performed 2025-7-21
+> [!note]
+> Performed 2025-7-21
 > Data processing and documentation was performed on 2025-7-21 following the completion of the master metadata file. **This pipeline uses QIIME2 v2025.4**.
 
 ```
@@ -77,7 +78,8 @@ qiime dada2 denoise-paired \
 
 ## Denoising stats summary
 
-> [!warning] Concerning metadata.tsv
+> [!warning]
+> Concerning metadata.tsv
 > `rab38_Ac_Swab_Tr1` and `rab55_Fr_Swab_Tr2` were both duplicated IDs. `rab38_Ac_Swab_Tr1` had identical entires, while `rab55_Fr_Swab_Tr2` had entries with different `Sample Barcodes`. One was run on sr64 and the other on sr65, so the the former was omitted from the metadata.tsv.
 
 ```
@@ -112,13 +114,14 @@ qiime metadata tabulate \
 
 ## Merging feature tables and representative sequences
 
-> [!warning] The following samples were filtered from `sr64` since they were redundant
+> [!warning]
+> The following samples were filtered from `sr64` since they were redundant
 > ```
-cat > samples-to-exclude.txt << EOF
-sample-id
-rab38_Ac_Swab_Tr1
-rab55_Fr_Swab_Tr2
-EOF
+> cat > samples-to-exclude.txt << EOF
+> sample-id
+> rab38_Ac_Swab_Tr1
+> rab55_Fr_Swab_Tr2
+> EOF
 > ```
 > 
 > ```

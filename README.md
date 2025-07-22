@@ -6,11 +6,28 @@
   <img src="assets/icons/nsf-rabbit-study-banner.png" alt="NSF RABBITS Study Logo" width="600"/>
 </p>
 
+# File directory
+```
+.
+├── assets
+├── data/
+│   ├── greengeens2-2024.09-515-806-nb-classifier.qza
+│   ├── merged-table-filtered-all.qza # Feature table filtered of mitochrondia, archaea, chloroplasts, and Unassigned taxa
+│   ├── metadata.tsv # Last updated 2025-7-21
+│   ├── rooted-tree.qza
+│   └── taxonomy.qza
+├── documentation/
+│   └── data_processing.md # Documentation for the QIIME2 data processing pipeline
+├── figures
+├── LICENSE
+└── README.md
+```
+
 # About
 
 ### What's this for?
 
-This repository serves as an experimental reporting system for documentation, materials, and analyses related to a NSF study investigating the microbial impact varying levels of insect diversity/carrion accessibility has on the microbiota of said carrion. More specifically, though, the materials here will largely reflect the elements of this study that contribute to my PhD dissertation and research—chiefly the microbiota of decomposition-associated entomofauna and how they compare.
+This repository serves as an experimental reporting system for documentation, materials, and analyses related to a NSF study investigating the microbial impact varying levels of insect diversity/carrion accessibility has on the microbiota of said carrion. *More specifically, though, the materials here will largely reflect the elements of this study that contribute to my PhD dissertation and research—chiefly the microbiota of decomposition-associated entomofauna and how they compare/intersect.*
 
 <p align="center">
   <img src="assets/icons/maggot.png" alt="Maggot" width="100"/>
@@ -32,7 +49,7 @@ This repository serves as an experimental reporting system for documentation, ma
 
 ### Disclosure(s)
 
-The work seen here is the product of a combined effort between Colorado State University's [Metcalf Lab](https://www.jessicalmetcalf.com/) and Sam Houston State University's [Bucheli Lab](https://www.shsu.edu/academics/biological-sciences/people/bucheli.html). The research and data generation was funded by a generous grant awarded by the National Science Foundation. The work associated with this grant spans far beyond the scope of the project and research discussed in this GitHub repository.
+The work seen here is the product of a combined effort between Colorado State University's [Metcalf Lab](https://www.jessicalmetcalf.com/) and Sam Houston State University's [Bucheli Lab](https://www.shsu.edu/academics/biological-sciences/people/bucheli.html). The research and data generation was funded by a grant awarded by the National Science Foundation. The work associated with this grant spans far beyond the scope of the project and research discussed in this GitHub repository.
 
 <p align="center">
   <img src="assets/icons/adult_fly.png" alt="Adult fly" width="130"/>
@@ -43,6 +60,7 @@ The work seen here is the product of a combined effort between Colorado State Un
 > [!IMPORTANT]
 >
 > As of **2025-6-17** this project is still in its infancy, so there are no presentations or publications currently associated with the research materials presented here. This section will be updated with any relevant entries as they're released.
+> As of **2025-7-22** the processed sequencing data and QIIME2 processing pipeline documentation have been uploaded.
 
 
 
@@ -147,19 +165,7 @@ Fly samples were surface-sterilized much the same way as the beetles were, with 
   <img src="figures/QIIME2 Bioinformatics Pipeline.png" width="700"/>
 </p>
 
-
-### Quality checking
-
-> [!NOTE] 
->
-> TBC
-
-### QIIME2 pipeline
-
-> [!NOTE] 
->
-> TBC
-
+See [documentation/data_processing.md](documentation/data_processing.md) for more information.
 
 
 ## Analysis

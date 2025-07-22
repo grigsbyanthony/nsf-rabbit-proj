@@ -6,6 +6,23 @@
   <img src="assets/icons/nsf-rabbit-study-banner.png" alt="NSF RABBITS Study Logo" width="600"/>
 </p>
 
+# File directory
+```
+.
+├── assets
+├── data/
+│   ├── greengeens2-2024.09-515-806-nb-classifier.qza
+│   ├── merged-table-filtered-all.qza # Feature table filtered of mitochrondia, archaea, chloroplasts, and Unassigned taxa
+│   ├── metadata.tsv # Last updated 2025-7-21
+│   ├── rooted-tree.qza
+│   └── taxonomy.qza
+├── documentation/
+│   └── data_processing.md # Documentation for the QIIME2 data processing pipeline
+├── figures
+├── LICENSE
+└── README.md
+```
+
 # About
 
 ### What's this for?

@@ -147,13 +147,8 @@ Fly samples were surface-sterilized much the same way as the beetles were, with 
   <img src="figures/QIIME2 Bioinformatics Pipeline.png" width="700"/>
 </p>
 
-
-### Quality checking
-
-> [!NOTE] 
->
-> TBC
-
+See [documentation/data_processing.md](documentation/data_processing.md) for more information.
+  
 ### QIIME2 pipeline
 
 > [!NOTE] 

@@ -8,13 +8,9 @@
 
 # About
 
-<p align="center">
-  <img src="assets/icons/contributors.png" alt="Contributors banner" width="600"/>
-</p>
-
 ### What's this for?
 
-This repository serves as an experimental reporting system for documentation, materials, and analyses related to a NSF study investigating the microbial impact varying levels of insect diversity/carrion accessibility has on the microbiota of said carrion. More specifically, though, the materials here will reflect the elements of this study that contribute to my PhD dissertation and research—chiefly the microbiota of decomposition-associated entomofauna and how they compare.
+This repository serves as an experimental reporting system for documentation, materials, and analyses related to a NSF study investigating the microbial impact varying levels of insect diversity/carrion accessibility has on the microbiota of said carrion. More specifically, though, the materials here will largely reflect the elements of this study that contribute to my PhD dissertation and research—chiefly the microbiota of decomposition-associated entomofauna and how they compare.
 
 <p align="center">
   <img src="assets/icons/maggot.png" alt="Maggot" width="100"/>

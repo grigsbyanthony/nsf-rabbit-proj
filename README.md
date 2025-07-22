@@ -20,8 +20,10 @@
 │   ├── rooted-tree.qza
 │   └── taxonomy.qza
 ├── documentation/
+│   ├── core-metrics/
 │   └── data_processing.md # Documentation for the QIIME2 data processing pipeline
-├── figures
+├── figures/
+│   └── core-metrics/
 ├── LICENSE
 └── README.md
 ```

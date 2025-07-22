@@ -10,7 +10,7 @@
 
 ### What's this for?
 
-This repository serves as an experimental reporting system for documentation, materials, and analyses related to a NSF study investigating the microbial impact varying levels of insect diversity/carrion accessibility has on the microbiota of said carrion. More specifically, though, the materials here will largely reflect the elements of this study that contribute to my PhD dissertation and research—chiefly the microbiota of decomposition-associated entomofauna and how they compare.
+This repository serves as an experimental reporting system for documentation, materials, and analyses related to a NSF study investigating the microbial impact varying levels of insect diversity/carrion accessibility has on the microbiota of said carrion. *More specifically, though, the materials here will largely reflect the elements of this study that contribute to my PhD dissertation and research—chiefly the microbiota of decomposition-associated entomofauna and how they compare/intersect.*
 
 <p align="center">
   <img src="assets/icons/maggot.png" alt="Maggot" width="100"/>
@@ -32,7 +32,7 @@ This repository serves as an experimental reporting system for documentation, ma
 
 ### Disclosure(s)
 
-The work seen here is the product of a combined effort between Colorado State University's [Metcalf Lab](https://www.jessicalmetcalf.com/) and Sam Houston State University's [Bucheli Lab](https://www.shsu.edu/academics/biological-sciences/people/bucheli.html). The research and data generation was funded by a generous grant awarded by the National Science Foundation. The work associated with this grant spans far beyond the scope of the project and research discussed in this GitHub repository.
+The work seen here is the product of a combined effort between Colorado State University's [Metcalf Lab](https://www.jessicalmetcalf.com/) and Sam Houston State University's [Bucheli Lab](https://www.shsu.edu/academics/biological-sciences/people/bucheli.html). The research and data generation was funded by a grant awarded by the National Science Foundation. The work associated with this grant spans far beyond the scope of the project and research discussed in this GitHub repository.
 
 <p align="center">
   <img src="assets/icons/adult_fly.png" alt="Adult fly" width="130"/>
@@ -43,6 +43,7 @@ The work seen here is the product of a combined effort between Colorado State Un
 > [!IMPORTANT]
 >
 > As of **2025-6-17** this project is still in its infancy, so there are no presentations or publications currently associated with the research materials presented here. This section will be updated with any relevant entries as they're released.
+> As of **2025-7-22** the processed sequencing data and QIIME2 processing pipeline documentation have been uploaded.
 
 
 

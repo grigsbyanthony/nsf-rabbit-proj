@@ -1,454 +1,454 @@
-SampleID	SampleBarcode	SamplingDate	SamplingTimepoint	TBS	SoilGrade	RabbitStage	InsectAlphaDiversity	Temperature_C	SequenceRun	Index	SampleType	Block	Trt	Stage	Cage	Rabbit	Compromised	Skeletal	Source	Microbiota	Spectrum
-#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical
-Soil_Fr_Soil_NA_111689	111689	2025-5-12	T0			Soil_Fr			64	GCCCTTCCCGTG	Soil	NA	NA	Fr	NA	NA 					
-Soil_Fr_Soil_NA_111687	111687	2025-5-12	T0			Soil_Fr			64	GAACGATCATGT	Soil	NA	NA	Fr	NA	NA 					
-Soil_Fr_Soil_NA_111685	111685	2025-5-12	T0			Soil_Fr			64	ATGCCGGTAATA	Soil	NA	NA	Fr	NA	NA 					
-Soil_Fr_Soil_NA	111691	2025-5-12	T0			Soil_Fr			64	CGTGGCTTTCCG	Soil	NA	NA	Fr	NA	NA 					
-rab1_Ac_Swab_Tr0	110915	2025-5-15	T1	2	3	rab1_Ac		31.7	64	ACCTCAGTCAAG	Swab	b1	Tr0	Ac	c1	rab1	Y	Y			
-rab1_Ac_Soil_Tr0	110914	2025-5-15	T1	2	3	rab1_Ac		31.7	64	ACAAAGGTATCA	Soil	b1	Tr0	Ac	c1	rab1	Y	Y			
-rab1_Adv_Swab_Tr0	110910	2025-5-18	T2		3	rab1_Adv		27.2	64	CATGTCTTCCAT	Swab	b1	Tr0	Adv	c1	rab1	Y	Y			
-rab1_Adv_Soil_Tr0	110908	2025-5-18	T2		3	rab1_Adv		27.2	64	ATAACGGTGTAC	Soil	b1	Tr0	Adv	c1	rab1	Y	Y			
-rab10_Ac_Swab_Tr1	111136	2025-5-15	T1	2	1	rab10_Ac		31.7	64	CCTTGACCGATG	Swab	b1	Tr1	Ac	c3	rab10	N	N			
-rab10_Ac_Soil_Tr1	111134	2025-5-15	T1	2	1	rab10_Ac		31.7	64	AGAGGAGTCGAC	Soil	b1	Tr1	Ac	c3	rab10	N	N			
-rab10_Adv_Swab_Tr1	111131	2025-5-18	T2		2	rab10_Adv		27.2	64	CGCCGTACTTGC	Swab	b1	Tr1	Adv	c3	rab10	N	N			
-rab10_Adv_Soil_Tr1	111129	2025-5-18	T2		2	rab10_Adv		27.2	64	GACGTTAAGAAT	Soil	b1	Tr1	Adv	c3	rab10	N	N			
-rab11_Ac_Swab_Tr2	111332	2025-5-15	T1	2	3	rab11_Ac		31.7	64	CCAGGACAGGAA	Swab	b1	Tr2	Ac	c3	rab11	Y	Y			
-rab11_Ac_Soil_Tr2	111329	2025-5-15	T1	2	3	rab11_Ac		31.7	64	GGACAAGTGCGA	Soil	b1	Tr2	Ac	c3	rab11	Y	Y			
-rab11_Adv_Soil_Tr2	111324	2025-5-18	T2		3	rab11_Adv		27.2	64	GTCAGAGTATTG	Soil	b1	Tr2	Adv	c3	rab11	Y	Y			
-rab11_Adv_Swab_Tr2	111326	2025-5-18	T2		3	rab11_Adv		27.2	65	TACCTGTGTCTT	Swab	b1	Tr2	Adv	c3	rab11	Y	Y			
-rab12_Ac_Soil_Tr3	111524	2025-5-15	T1	2	3	rab12_Ac		31.7	64	CACAGTTGAAGT	Soil	b1	Tr3	Ac	c3	rab12	N	N			
-rab12_Adv_Swab_Tr3	111521	2025-5-18	T2		3	rab12_Adv		27.2	64	GTCACTCCGAAC	Swab	b1	Tr3	Adv	c3	rab12	N	N			
-rab12_Adv_Soil_Tr3	111519	2025-5-18	T2		3	rab12_Adv		27.2	64	AGAGCGGAACAA	Soil	b1	Tr3	Adv	c3	rab12	N	N			
-rab13_Ac_Swab_Tr0	110954	2025-5-15	T1	2	1	rab13_Ac		31.7	64	AGCCGCGGGTCC	Swab	b1	Tr0	Ac	c4	rab13	Y	N			
-rab13_Ac_Soil_Tr0	110952	2025-5-15	T1	2	1	rab13_Ac		31.7	64	TTAGTTTGTCAC	Soil	b1	Tr0	Ac	c4	rab13	Y	N			
-rab13_Adv_Soil_Tr0	110947	2025-5-18	T2		2	rab13_Adv		27.2	64	TACGGTCTGGAT	Soil	b1	Tr0	Adv	c4	rab13	Y	N			
-rab13_Adv_Swab_Tr0	110950	2025-5-18	T2		2	rab13_Adv		27.2	65	GGCCTATAAGTC	Swab	b1	Tr0	Adv	c4	rab13	Y	N			
-rab14_Ac_Soil_Tr1	111147	2025-5-15	T1	2	2	rab14_Ac		31.7	64	GTTAACTTACTA	Soil	b1	Tr1	Ac	c4	rab14	N	Y			
-rab14_Ac_Swab_Tr1	111150	2025-5-15	T1	2	2	rab14_Ac		31.7	65	AAGCCGGGTCCG	Swab	b1	Tr1	Ac	c4	rab14	N	Y			
-rab14_Adv_Swab_Tr1	111144	2025-5-18	T2		3	rab14_Adv		27.2	64	CCGCGTCTCAAC	Swab	b1	Tr1	Adv	c4	rab14	N	Y			
-rab14_Adv_Soil_Tr1	111142	2025-5-18	T2		3	rab14_Adv		27.2	64	CGCGTCAAACTA	Soil	b1	Tr1	Adv	c4	rab14	N	Y			
-rab15_Ac_Soil_Tr2	111342	2025-5-15	T1	2	1.5	rab15_Ac		31.7	64	CTGATGTACACG	Soil	b1	Tr2	Ac	c4	rab15	N	Y			
-rab15_Ac_Swab_Tr2	111345	2025-5-15	T1	2	1.5	rab15_Ac		31.7	65	CAGCTGGTTCAA	Swab	b1	Tr2	Ac	c4	rab15	N	Y			
-rab15_Adv_Swab_Tr2	111339	2025-5-18	T2		2	rab15_Adv		27.2	64	CAAACTGCGTTG	Swab	b1	Tr2	Adv	c4	rab15	N	Y			
-rab15_Adv_Soil_Tr2	111337	2025-5-18	T2		2	rab15_Adv		27.2	64	ATAAACGGACAT	Soil	b1	Tr2	Adv	c4	rab15	N	Y			
-rab16_Ac_Soil_Tr3	111537	2025-5-15	T1	2		rab16_Ac		31.7	64	CTGCGGATATAC	Soil	b1	Tr3	Ac	c4	rab16	N	N			
-rab16_Ac_Swab_Tr3	111540	2025-5-15	T1	2		rab16_Ac		31.7	65	AAGATCGTACTG	Swab	b1	Tr3	Ac	c4	rab16	N	N			
-rab16_Adv_Soil_Tr3	111532	2025-5-18	T2		3	rab16_Adv		27.2	64	CGCAATGAGGGA	Soil	b1	Tr3	Adv	c4	rab16	N	N			
-rab16_Adv_Swab_Tr3	111534	2025-5-18	T2		3	rab16_Adv		27.2	65	ACCCGGATTTCG	Swab	b1	Tr3	Adv	c4	rab16	N	N			
-rab17_Ac_Swab_Tr0	110967	2025-5-15	T1	2	3	rab17_Ac		31.7	64	CAGCCCTACCCA	Swab	b1	Tr0	Ac	c5	rab17	Y	Y			
-rab17_Ac_Soil_Tr0	110965	2025-5-15	T1	2	3	rab17_Ac		31.7	64	ACATGGGCGGAA	Soil	b1	Tr0	Ac	c5	rab17	Y	Y			
-rab17_Adv_Swab_Tr0	110962	2025-5-18	T2			rab17_Adv		27.2	64	AGATGTCCGTCA	Swab	b1	Tr0	Adv	c5	rab17	Y	Y			
-rab17_Adv_Soil_Tr0	110960	2025-5-18	T2			rab17_Adv		27.2	64	ATGGGACCTTCA	Soil	b1	Tr0	Adv	c5	rab17	Y	Y			
-rab18_Ac_Soil_Tr1	111160	2025-5-15	T1	2	1	rab18_Ac		31.7	64	ATTTGGCTCTTA	Soil	b1	Tr1	Ac	c5	rab18	N	Y			
-rab18_Ac_Swab_Tr1	111163	2025-5-15	T1	2	1	rab18_Ac		31.7	65	TCCTAGGTCCGA	Swab	b1	Tr1	Ac	c5	rab18	N	Y			
-rab18_Adv_Soil_Tr1	111155	2025-5-18	T2		3	rab18_Adv		27.2	64	CGGATCTAGTGT	Soil	b1	Tr1	Adv	c5	rab18	N	Y			
-rab18_Adv_Swab_Tr1	111158	2025-5-18	T2		3	rab18_Adv		27.2	65	CGTGGTGGGAAC	Swab	b1	Tr1	Adv	c5	rab18	N	Y			
-rab19_Ac_Soil_Tr2	111355	2025-5-15	T1	2	1	rab19_Ac		31.7	64	CACCCTTGCGAC	Soil	b1	Tr2	Ac	c5	rab19	N	Y			
-rab19_Ac_Swab_Tr2	111358	2025-5-15	T1	2	1	rab19_Ac		31.7	65	CCTAAGAGCATC	Swab	b1	Tr2	Ac	c5	rab19	N	Y			
-rab19_Adv_Soil_Tr2	111350	2025-5-18	T2		1.5	rab19_Adv		27.2	64	TCCGCTGCTGAC	Soil	b1	Tr2	Adv	c5	rab19	N	Y			
-rab2_Ac_Swab_Tr1	111110	2025-5-15	T1	2	1	rab2_Ac		31.7	64	TAAGGTCGATAA	Swab	b1	Tr1	Ac	c1	rab2	N	N			
-rab2_Ac_Soil_Tr1	111108	2025-5-15	T1	2	1	rab2_Ac		31.7	64	GATTCTTTAGAT	Soil	b1	Tr1	Ac	c1	rab2	N	N			
-rab2_Adv_Swab_Tr1	111105	2025-5-18	T2		2	rab2_Adv		27.2	64	AAGTCACACACA	Swab	b1	Tr1	Adv	c1	rab2	N	N			
-rab2_Adv_Soil_Tr1	111103	2025-5-18	T2		2	rab2_Adv		27.2	64	CGAACGTCTATG	Soil	b1	Tr1	Adv	c1	rab2	N	N			
-rab20_Ac_Swab_Tr3	111552	2025-5-15	T1	2	1.5	rab20_Ac		31.7	64	AGATCGTGCCTA	Swab	b1	Tr3	Ac	c5	rab20	N	Y			
-rab20_Ac_Soil_Tr3	111550	2025-5-15	T1		1.5	rab20_Ac		31.7	64	AACGGGCGACGT	Soil	b1	Tr3	Ac	c5	rab20	N	Y			
-rab20_Adv_Swab_Tr3	111547	2025-5-18	T2		3	rab20_Adv		27.2	64	CCGAGGTATAAT	Swab	b1	Tr3	Adv	c5	rab20	N	Y			
-rab20_Adv_Soil_Tr3	111545	2025-5-18	T2		3	rab20_Adv		27.2	64	GTGAGGGCAAGT	Soil	b1	Tr3	Adv	c5	rab20	N	Y			
-rab21_Ac_Soil_Tr0	110978	2025-5-15	T1	2	2	rab21_Ac		31.7	64	AGGGACTTCAAT	Soil	b2	Tr0	Ac	c1	rab21	Y	Y			
-rab21_Ac_Swab_Tr0	110981	2025-5-15	T1	2	2	rab21_Ac		31.7	65	GTCATTGGGCTA	Swab	b2	Tr0	Ac	c1	rab21	Y	Y			
-rab21_Adv_Swab_Tr0	110975	2025-5-18	T2	3	2	rab21_Adv		27.2	64	CCACAACGATCA	Swab	b2	Tr0	Adv	c1	rab21	Y	Y			
-rab21_Adv_Soil_Tr0	110973	2025-5-18	T2	3	2	rab21_Adv		27.2	64	GCTGCGTATACC	Soil	b2	Tr0	Adv	c1	rab21	Y	Y			
-rab21_Fr_Swab_Tr0	110970	2025-5-12	T0	1	1	rab21_Fr			64	GTTTGAAACACG	Swab	b2	Tr0	Fr	c1	rab21	Y	Y			
-rab22_Ac_Swab_Tr1	111175	2025-5-15	T1	2	1.5	rab22_Ac		31.7	64	TTCCAATACTCA	Swab	b2	Tr1	Ac	c1	rab22	N	Y			
-rab22_Ac_Soil_Tr1	111173	2025-5-15	T1	2	1.5	rab22_Ac		31.7	64	CCGGCCGCGTGC	Soil	b2	Tr1	Ac	c1	rab22	N	Y			
-rab22_Adv_Swab_Tr1	111170	2025-5-18	T2	3		rab22_Adv		27.2	64	GCGTTTGCTAGC	Swab	b2	Tr1	Adv	c1	rab22	N	Y			
-rab22_Adv_Soil_Tr1	111168	2025-5-18	T2	3		rab22_Adv		27.2	64	TGCGCGCCTTCC	Soil	b2	Tr1	Adv	c1	rab22	N	Y			
-rab22_Fr_Swab_Tr1	111165	2025-5-12	T0	1	1	rab22_Fr			64	GTTCTAAGGTGA	Swab	b2	Tr1	Fr	c1	rab22	N	Y			
-rab23_Ac_Swab_Tr2	111370	2025-5-15	T1	2	2	rab23_Ac		31.7	64	TAGGAACTCACC	Swab	b2	Tr2	Ac	c1	rab23	Y	Y			
-rab23_Ac_Soil_Tr2	111368	2025-5-15	T1	2	2	rab23_Ac		31.7	64	TTGTGTCTCCCT	Soil	b2	Tr2	Ac	c1	rab23	Y	Y			
-rab23_Adv_Swab_Tr2	111365	2025-5-18	T2	3	2	rab23_Adv		27.2	64	AGCAGTGCGGTG	Swab	b2	Tr2	Adv	c1	rab23	Y	Y			
-rab23_Adv_Soil_Tr2	111363	2025-5-18	T2	3	2	rab23_Adv		27.2	64	AACGCTTCTTAT	Soil	b2	Tr2	Adv	c1	rab23	Y	Y			
-rab24_Ac_Swab_Tr3	111565	2025-5-15	T1	2	1.5	rab24_Ac		31.7	64	TGACAGAATCCA	Swab	b2	Tr3	Ac	c1	rab24	N	Y			
-rab24_Ac_Soil_Tr3	111563	2025-5-15	T1	2	1.5	rab24_Ac		31.7	64	TCCGTGGTATAG	Soil	b2	Tr3	Ac	c1	rab24	N	Y			
-rab24_Adv_Swab_Tr3	111560	2025-5-18	T2	3	2	rab24_Adv		27.2	64	GCAACGAACGAG	Swab	b2	Tr3	Adv	c1	rab24	N	Y			
-rab24_Adv_Soil_Tr3	111558	2025-5-18	T2	3	2	rab24_Adv		27.2	64	GCTAGTTATGGA	Soil	b2	Tr3	Adv	c1	rab24	N	Y			
-rab24_Fr_Swab_Tr3	111556	2025-5-12	T0	1	1	rab24_Fr			65	CTTCAAGATGGA	Swab	b2	Tr3	Fr	c1	rab24	N	Y			
-rab25_Ac_Swab_Tr0	110993	2025-5-15	T1	2	1	rab25_Ac		31.7	64	ATGACTAAGATG	Swab	b2	Tr0	Ac	c2	rab25	Y	Y			
-rab25_Ac_Soil_Tr0	110991	2025-5-15	T1	2	1	rab25_Ac		31.7	64	TGGAGCCTTGTC	Soil	b2	Tr0	Ac	c2	rab25	Y	Y			
-rab25_Adv_Swab_Tr0	110988	2025-5-18	T2	3	2	rab25_Adv		27.2	64	ACTAAAGCAAAC	Swab	b2	Tr0	Adv	c2	rab25	Y	Y			
-rab25_Adv_Soil_Tr0	110986	2025-5-18	T2	3	2	rab25_Adv		27.2	64	AGTTGTAGTCCG	Soil	b2	Tr0	Adv	c2	rab25	Y	Y			
-rab25_Fr_Swab_Tr0	110984	2025-5-12	T0	1	1	rab25_Fr			65	AGGACGCCAGCA	Swab	b2	Tr0	Fr	c2	rab25	Y	Y			
-rab26_Ac_Soil_Tr1	111186	2025-5-15	T1	2	2	rab26_Ac		31.7	64	CAATAGAATAAG	Soil	b2	Tr1	Ac	c2	rab26	Y	Y			
-rab26_Ac_Swab_Tr1	111188	2025-5-15	T1	2	1	rab26_Ac		31.7	65	GTAAATTCAGGC	Swab	b2	Tr1	Ac	c2	rab26	Y	Y			
-rab26_Adv_Swab_Tr1	111183	2025-5-18	T2	3		rab26_Adv		27.2	64	GCTGCCCACCTA	Swab	b2	Tr1	Adv	c2	rab26	Y	Y			
-rab26_Adv_Soil_Tr1	111181	2025-5-18	T2	3		rab26_Adv		27.2	64	CCTATTGCGGCC	Soil	b2	Tr1	Adv	c2	rab26	Y	Y			
-rab26_Fr_Swab_Tr1	111179	2025-5-12	T0	1	1	rab26_Fr			65	CTTTGATAATAA	Swab	b2	Tr1	Fr	c2	rab26	Y	Y			
-rab27_Ac_Soil_Tr2	111381	2025-5-15	T1	2	1.5	rab27_Ac		31.7	64	CATTCGTGGCGT	Soil	b2	Tr2	Ac	c2	rab27	N	Y			
-rab27_Ac_Swab_Tr2	111383	2025-5-15	T1	2	1.5	rab27_Ac		31.7	65	TGGACTCAGCTA	Swab	b2	Tr2	Ac	c2	rab27	N	Y			
-rab27_Adv_Swab_Tr2	111378	2025-5-18	T2	3	1.5	rab27_Adv		27.2	64	GCCACCGCCGGA	Swab	b2	Tr2	Adv	c2	rab27	N	Y			
-rab27_Adv_Soil_Tr2	111376	2025-5-18	T2	3	1.5	rab27_Adv		27.2	64	TACTGAGCCTCG	Soil	b2	Tr2	Adv	c2	rab27	N	Y			
-rab27_Fr_Swab_Tr2	111374	2025-5-12	T0	1	1	rab27_Fr			65	CTCTTCTGATCA	Swab	b2	Tr2	Fr	c2	rab27	N	Y			
-rab28_Ac_Swab_Tr3	111578	2025-5-15	T1	2	1.5	rab28_Ac		31.7	64	CTACTCCACGAG	Swab	b2	Tr3	Ac	c2	rab28	N	Y			
-rab28_Ac_Soil_Tr3	111576	2025-5-15	T1	2	1.5	rab28_Ac		31.7	64	CAAATTCGGGAT	Soil	b2	Tr3	Ac	c2	rab28	N	Y			
-rab28_Adv_Swab_Tr3	111573	2025-5-18	T2	3	3	rab28_Adv		27.2	64	CAGGAACCAGGA	Swab	b2	Tr3	Adv	c2	rab28	N	Y			
-rab28_Adv_Soil_Tr3	111571	2025-5-18	T2	3	3	rab28_Adv		27.2	64	CATTTGACGACG	Soil	b2	Tr3	Adv	c2	rab28	N	Y			
-rab29_Ac_Swab_Tr0	111006	2025-5-15	T1	2	1	rab29_Ac		31.7	64	TCCGATAATCGG	Swab	b2	Tr0	Ac	c3	rab29	Y	Y			
-rab29_Ac_Soil_Tr0	111004	2025-5-15	T1	2	1	rab29_Ac		31.7	64	CTGGTGCTGAAT	Soil	b2	Tr0	Ac	c3	rab29	Y	Y			
-rab29_Adv_Swab_Tr0	111001	2025-5-18	T2	3	1	rab29_Adv		27.2	64	CCTCCGTCATGG	Swab	b2	Tr0	Adv	c3	rab29	Y	Y			
-rab29_Adv_Soil_Tr0	110999	2025-5-18	T2	3	1	rab29_Adv		27.2	64	GTTAAGCTGACC	Soil	b2	Tr0	Adv	c3	rab29	Y	Y			
-rab29_Fr_Swab_Tr0	110996	2025-5-12	T0	1	1	rab29_Fr			64	TTAATGGATCGG	Swab	b2	Tr0	Fr	c3	rab29	Y	Y			
-rab3_Ac_Soil_Tr2	111303	2025-5-15	T1	2	2	rab3_Ac		31.7	64	ACTAAGTACCCG	Soil	b1	Tr2	Ac	c1	rab3	Y	N			
-rab3_Ac_Swab_Tr2	111306	2025-5-15	T1	2	2	rab3_Ac		31.7	65	CATAAATTCTTG	Swab	b1	Tr2	Ac	c1	rab3	Y	N			
-rab3_Adv_Swab_Tr2	111300	2025-5-18	T2		1.5	rab3_Adv		27.2	64	CTTGCTCATAAT	Swab	b1	Tr2	Adv	c1	rab3	Y	N			
-rab3_Adv_Soil_Tr2	111298	2025-5-18	T2		1.5	rab3_Adv		27.2	64	TGAACCCTATGG	Soil	b1	Tr2	Adv	c1	rab3	Y	N			
-rab30_Ac_Swab_Tr1	111201	2025-5-15	T1	2	1	rab30_Ac		31.7	64	TAAACCTGGACA	Swab	b2	Tr1	Ac	c3	rab30	Y	Y			
-rab30_Ac_Soil_Tr1	111199	2025-5-15	T1	2	1	rab30_Ac		31.7	64	GGCTTCGGAGCG	Soil	b2	Tr1	Ac	c3	rab30	Y	Y			
-rab30_Adv_Swab_Tr1	111196	2025-5-18	T2	3	3	rab30_Adv		27.2	64	ATTTCCGCTAAT	Swab	b2	Tr1	Adv	c3	rab30	Y	Y			
-rab30_Adv_Soil_Tr1	111194	2025-5-18	T2	3	3	rab30_Adv		27.2	64	GCCTAGCCCAAT	Soil	b2	Tr1	Adv	c3	rab30	Y	Y			
-rab30_Fr_Swab_Tr1	111192	2025-5-12	T0	1	1	rab30_Fr			65	AGACAGTAGGAG	Swab	b2	Tr1	Fr	c3	rab30	Y	Y			
-rab31_Ac_Soil_Tr2	111394	2025-5-15	T1	2	1	rab31_Ac		31.7	64	CAGTCCCTGCAC	Soil	b2	Tr2	Ac	c3	rab31	N	N			
-rab31_Ac_Swab_Tr2	111397	2025-5-15	T1	2	1	rab31_Ac		31.7	65	ACACGCGGTTTA	Swab	b2	Tr2	Ac	c3	rab31	N	N			
-rab31_Adv_Swab_Tr2	111391	2025-5-18	T2	2	1	rab31_Adv		27.2	64	TACAGCGCATAC	Swab	b2	Tr2	Adv	c3	rab31	N	N			
-rab31_Adv_Soil_Tr2	111389	2025-5-18	T2	2	1	rab31_Adv		27.2	64	ATGTTAGGGAAT	Soil	b2	Tr2	Adv	c3	rab31	N	N			
-rab31_Fr_Swab_Tr2	111387	2025-5-12	T0	1	1	rab31_Fr			65	TCTACGGCACGT	Swab	b2	Tr2	Fr	c3	rab31	N	N			
-rab32_Ac_Swab_Tr3	111591	2025-5-15	T1	2	1.5	rab32_Ac		31.7	64	TTAACAAGGCAA	Swab	b2	Tr3	Ac	c3	rab32	Y	Y			
-rab32_Ac_Soil_Tr3	111589	2025-5-15	T1	2	1.5	rab32_Ac		31.7	64	CCGCAGCCGCAG	Soil	b2	Tr3	Ac	c3	rab32	Y	Y			
-rab32_Adv_Swab_Tr3	111587	2025-5-18	T2	3	2	rab32_Adv		27.2	64	GGTAGTTCATAG	Swab	b2	Tr3	Adv	c3	rab32	Y	Y			
-rab32_Adv_Soil_Tr3	111584	2025-5-18	T2	3	2	rab32_Adv		27.2	64	TAGCGCGAACTT	Soil	b2	Tr3	Adv	c3	rab32	Y	Y			
-rab32_Fr_Swab_Tr3	111582	2025-5-12	T0	1	1	rab32_Fr			65	CGAGGGAAAGTC	Swab	b2	Tr3	Fr	c3	rab32	Y	Y			
-rab33_Ac_Swab_Tr0	111019	2025-5-15	T1	2	1.5	rab33_Ac		31.7	64	TCAAGTCCGCAC	Swab	b2	Tr0	Ac	c4	rab33	Y	Y			
-rab33_Ac_Soil_Tr0	111017	2025-5-15	T1	2	1.5	rab33_Ac		31.7	64	ACGTGCCTTAGA	Soil	b2	Tr0	Ac	c4	rab33	Y	Y			
-rab33_Adv_Swab_Tr0	111014	2025-5-18	T2	3		rab33_Adv		27.2	64	AACTTTCAGGAG	Swab	b2	Tr0	Adv	c4	rab33	Y	Y			
-rab33_Adv_Soil_Tr0	111012	2025-5-18	T2	3		rab33_Adv		27.2	64	GTTGGTTGGCAT	Soil	b2	Tr0	Adv	c4	rab33	Y	Y			
-rab33_Fr_Swab_Tr0	111010	2025-5-12	T0	1	1	rab33_Fr			65	GAATGCGTATAA	Swab	b2	Tr0	Fr	c4	rab33	Y	Y			
-rab34_Ac_Soil_Tr1	111212	2025-5-15	T1	2	2	rab34_Ac		31.7	64	CCTGCACCTGCA	Soil	b2	Tr1	Ac	c4	rab34	N	N			
-rab34_Ac_Swab_Tr1	111215	2025-5-15	T1	2	2	rab34_Ac		31.7	65	CAAATGGTCGTC	Swab	b2	Tr1	Ac	c4	rab34	N	N			
-rab34_Adv_Soil_Tr1	111207	2025-5-18	T2	3		rab34_Adv		27.2	64	CGCAAGCCCGCG	Soil	b2	Tr1	Adv	c4	rab34	N	N			
-rab34_Fr_Swab_Tr1	111205	2025-5-12	T0	1	1	rab34_Fr			65	AGACACCAATGT	Swab	b2	Tr1	Fr	c4	rab34	N	N			
-rab35_Ac_Soil_Tr2	111407	2025-5-15	T1	2	1.5	rab35_Ac		31.7	64	GTCTCCTCCCTT	Soil	b2	Tr2	Ac	c4	rab35	N	N			
-rab35_Ac_Swab_Tr2	111410	2025-5-15	T1	2	1.5	rab35_Ac		31.7	65	ATAGACACTCCG	Swab	b2	Tr2	Ac	c4	rab35	N	N			
-rab35_Adv_Soil_Tr2	111402	2025-5-18	T2	2		rab35_Adv		27.2	64	ACGGCGTTATGT	Soil	b2	Tr2	Adv	c4	rab35	N	N			
-rab35_Adv_Swab_Tr2	111405	2025-5-18	T2	3		rab35_Adv		27.2	65	CTGTAAAGGTTG	Swab	b2	Tr2	Adv	c4	rab35	N	N			
-rab35_Fr_Swab_Tr2	111400	2025-5-12	T0	1	1	rab35_Fr			65	TCATACAGCCAG	Swab	b2	Tr2	Fr	c4	rab35	N	N			
-rab36_Ac_Swab_Tr3	111604	2025-5-15	T1	2	1	rab36_Ac		31.7	64	GTCCGTCCTGGT	Swab	b2	Tr3	Ac	c4	rab36	Y	Y			
-rab36_Ac_Soil_Tr3	111603	2025-5-15	T1	2	1	rab36_Ac		31.7	64	AATAGATGCTGA	Soil	b2	Tr3	Ac	c4	rab36	Y	Y			
-rab36_Adv_Swab_Tr3	111599	2025-5-18	T2	3	2	rab36_Adv		27.2	64	TCGAGAGTTTGC	Swab	b2	Tr3	Adv	c4	rab36	Y	Y			
-rab36_Adv_Soil_Tr3	111597	2025-5-18	T2	3	2	rab36_Adv		27.2	64	TATACCGCTGCG	Soil	b2	Tr3	Adv	c4	rab36	Y	Y			
-rab36_Fr_Swab_Tr3	111595	2025-5-12	T0	1	1	rab36_Fr			65	ATTTGAAGAGGT	Swab	b2	Tr3	Fr	c4	rab36	Y	Y			
-rab37_Ac_Swab_Tr0	111032	2025-5-15	T1	2	1	rab37_Ac		31.7	64	CTCTGAGGTAAC	Swab	b2	Tr0	Ac	c5	rab37	Y	N			
-rab37_Ac_Soil_Tr0	111030	2025-5-15	T1	2	1	rab37_Ac		31.7	64	AATTTCCTAACA	Soil	b2	Tr0	Ac	c5	rab37	Y	N			
-rab37_Adv_Swab_Tr0	111027	2025-5-18	T2	2	2	rab37_Adv		27.2	64	CTAATCAGAGTG	Swab	b2	Tr0	Adv	c5	rab37	Y	N			
-rab37_Adv_Soil_Tr0	111025	2025-5-18	T2	2	2	rab37_Adv		27.2	64	AGTATATGTTTC	Soil	b2	Tr0	Adv	c5	rab37	Y	N			
-rab37_Fr_Swab_Tr0	111022	2025-5-12	T0	1	1	rab37_Fr			64	ACATGATATTCT	Swab	b2	Tr0	Fr	c5	rab37	Y	N			
-rab38_Ac_Swab_Tr1	111227	2025-5-15	T1	2	2.5	rab38_Ac		31.7	64	TCTTATAACGCT	Swab	b2	Tr1	Ac	c5	rab38	Y	N			
-rab38_Ac_Soil_Tr1	111225	2025-5-15	T1	2	2.5	rab38_Ac		31.7	64	CTTACACTGCTT	Soil	b2	Tr1	Ac	c5	rab38	Y	N			
-rab38_Adv_Swab_Tr1	111222	2025-5-18	T2	3	3	rab38_Adv		27.2	64	AGTGTTTCGGAC	Swab	b2	Tr1	Adv	c5	rab38	Y	N			
-rab38_Adv_Soil_Tr1	111220	2025-5-18	T2	3	3	rab38_Adv		27.2	64	TTCAGTTCGTTA	Soil	b2	Tr1	Adv	c5	rab38	Y	N			
-rab38_Fr_Swab_Tr1	111218	2025-5-12	T0	1	1	rab38_Fr			65	GTGCGAGGACAA	Swab	b2	Tr1	Fr	c5	rab38	Y	N			
-rab39_Ac_Soil_Tr2	111420	2025-5-15	T1	2	1.5	rab39_Ac		31.7	64	TGATTTAATTGC	Soil	b2	Tr2	Ac	c5	rab39	N	Y			
-rab39_Ac_Swab_Tr2	111422	2025-5-15	T1	2	1.5	rab39_Ac		31.7	65	AAGCCTCTACGA	Swab	b2	Tr2	Ac	c5	rab39	N	Y			
-rab39_Adv_Swab_Tr2	111417	2025-5-18	T2	3	1.5	rab39_Adv		27.2	64	CCGATAAAGGTT	Swab	b2	Tr2	Adv	c5	rab39	N	Y			
-rab39_Adv_Soil_Tr2	111415	2025-5-18	T2	3	1.5	rab39_Adv		27.2	64	GTAAACGACTTG	Soil	b2	Tr2	Adv	c5	rab39	N	Y			
-rab4_Ac_Swab_Tr3	111500	2025-5-15	T1	2	2	rab4_Ac		31.7	64	CTACAGGGTCTC	Swab	b1	Tr3	Ac	c1	rab4	N	Y			
-rab4_Ac_Soil_Tr3	111498	2025-5-15	T1	2	2	rab4_Ac		31.7	64	ACGTATTCGAAG	Soil	b1	Tr3	Ac	c1	rab4	N	Y			
-rab4_Adv_Swab_Tr3	111495	2025-5-18	T2	3	3	rab4_Adv		27.2	64	GCATATGCACTG	Swab	b1	Tr3	Adv	c1	rab4	N	Y			
-rab4_Adv_Soil_Tr3	111493	2025-5-18	T2	3	3	rab4_Adv		27.2	64	CTCAGCGGGACG	Soil	b1	Tr3	Adv	c1	rab4	N	Y			
-rab40_Ac_Soil_Tr3	111615	2025-5-15	T1	2	1.5	rab40_Ac		31.7	64	GAACCGTGCAGG	Soil	b2	Tr3	Ac	c5	rab40	N	N			
-rab40_Adv_Swab_Tr3	111612	2025-5-18	T2	3		rab40_Adv		27.2	64	CACAACCACAAC	Swab	b2	Tr3	Adv	c5	rab40	N	N			
-rab40_Adv_Soil_Tr3	111610	2025-5-18	T2	3		rab40_Adv		27.2	64	CTTCCAACTCAT	Soil	b2	Tr3	Adv	c5	rab40	N	N			
-rab40_Fr_Swab_Tr3	111608	2025-5-12	T0	1	1	rab40_Fr			65	GTCAATTAGTGG	Swab	b2	Tr3	Fr	c5	rab40	N	N			
-rab41_Ac_Swab_Tr0	111045	2025-5-15	T1	2	1	rab41_Ac		31.7	64	GTTGGACGAAGG	Swab	b3	Tr0	Ac	c1	rab41	Y	Y			
-rab41_Ac_Soil_Tr0	111043	2025-5-15	T1	2	1	rab41_Ac		31.7	64	AGTATCATATAT	Soil	b3	Tr0	Ac	c1	rab41	Y	Y			
-rab41_Adv_Swab_Tr0	111040	2025-5-18	T2	3	3	rab41_Adv		27.2	64	GCGCGGCGTTGC	Swab	b3	Tr0	Adv	c1	rab41	Y	Y			
-rab41_Adv_Soil_Tr0	111038	2025-5-18	T2	3	3	rab41_Adv		27.2	64	GTTGAAGCACCT	Soil	b3	Tr0	Adv	c1	rab41	Y	Y			
-rab41_Fr_Swab_Tr0	111035	2025-5-12	T0	1	1	rab41_Fr			65	CTAGTCGCTGGT	Swab	b3	Tr0	Fr	c1	rab41	Y	Y			
-rab42_Ac_Swab_Tr1	111240	2025-5-15	T1	2		rab42_Ac		31.7	64	ACCTACTTGTCT	Swab	b3	Tr1	Ac	c1	rab42	N	Y			
-rab42_Ac_Soil_Tr1	111238	2025-5-15	T1	2		rab42_Ac		31.7	64	ATGTAGGCTTAG	Soil	b3	Tr1	Ac	c1	rab42	N	Y			
-rab42_Adv_Swab_Tr1	111235	2025-5-18	T2	3	2	rab42_Adv		27.2	64	GTGTCGAGGGCA	Swab	b3	Tr1	Adv	c1	rab42	N	Y			
-rab42_Adv_Soil_Tr1	111233	2025-5-18	T2	3	2	rab42_Adv		27.2	64	ATCAAGATACGC	Soil	b3	Tr1	Adv	c1	rab42	N	Y			
-rab42_Fr_Swab_Tr1	111230	2025-5-12	T0	1	1	rab42_Fr			64	GAGCCATCTGTA	Swab	b3	Tr1	Fr	c1	rab42	N	Y			
-rab43_Ac_Soil_Tr2	111433	2025-5-15	T1	2	1	rab43_Ac		31.7	64	CTGAGGCCCTTC	Soil	b3	Tr2	Ac	c1	rab43	N	N			
-rab43_Ac_Swab_Tr2	111435	2025-5-15	T1	2	1	rab43_Ac		31.7	65	TGTTGCGTTTCT	Swab	b3	Tr2	Ac	c1	rab43	N	N			
-rab43_Adv_Soil_Tr2	111428	2025-5-18	T2	3	1	rab43_Adv		27.2	64	TCTTCGCAGCAG	Soil	b3	Tr2	Adv	c1	rab43	N	N			
-rab43_Fr_Swab_Tr2	111425	2025-5-12	T0	1	1	rab43_Fr			64	AACCGCATAAGT	Swab	b3	Tr2	Fr	c1	rab43	N	N			
-rab44_Ac_Swab_Tr3	111630	2025-5-15	T1	2		rab44_Ac		31.7	64	TTAAGTTAAGTT	Swab	b3	Tr3	Ac	c1	rab44	N	Y			
-rab44_Ac_Soil_Tr3	111628	2025-5-15	T1	2		rab44_Ac		31.7	64	CTTAGGCATGTG	Soil	b3	Tr3	Ac	c1	rab44	N	Y			
-rab44_Adv_Swab_Tr3	111625	2025-5-18	T2	3	2.5	rab44_Adv		27.2	64	CTAGCGTGCGTT	Swab	b3	Tr3	Adv	c1	rab44	N	Y			
-rab44_Adv_Soil_Tr3	111623	2025-5-18	T2	3	2.5	rab44_Adv		27.2	64	GTGCGGTTCACT	Soil	b3	Tr3	Adv	c1	rab44	N	Y			
-rab44_Fr_Swab_Tr3	111620	2025-5-12	T0	1	1	rab44_Fr			64	AACCACTAACCG	Swab	b3	Tr3	Fr	c1	rab44	N	Y			
-rab45_Ac_Soil_Tr0	111056	2025-5-15	T1	2	1	rab45_Ac		31.7	64	GCGGTCGGTCAG	Soil	b3	Tr0	Ac	c2	rab45	Y	N			
-rab45_Ac_Swab_Tr0	111058	2025-5-15	T1	2	1	rab45_Ac		31.7	65	GCAAGAATACAT	Swab	b3	Tr0	Ac	c2	rab45	Y	N			
-rab45_Adv_Soil_Tr0	111051	2025-5-18	T2	2.5	1	rab45_Adv		27.2	64	CACGAAAGCAGG	Soil	b3	Tr0	Adv	c2	rab45	Y	N			
-rab45_Adv_Swab_Tr0	111053	2025-5-18	T2	3	1	rab45_Adv		27.2	65	GCGATGGCGATG	Swab	b3	Tr0	Adv	c2	rab45	Y	N			
-rab45_Fr_Swab_Tr0	111048	2025-5-12	T0	1	1	rab45_Fr			64	TCTTGCGGAGTC	Swab	b3	Tr0	Fr	c2	rab45	Y	N			
-rab46_Ac_Swab_Tr1	111253	2025-5-15	T1	2		rab46_Ac		31.7	64	AATGTTCAACTT	Swab	b3	Tr1	Ac	c2	rab46	Y	Y			
-rab46_Ac_Soil_Tr1	111251	2025-5-15	T1	2		rab46_Ac		31.7	64	GGCGTAACGGCA	Soil	b3	Tr1	Ac	c2	rab46	Y	Y			
-rab46_Adv_Swab_Tr1	111248	2025-5-18	T2	3	2	rab46_Adv		27.2	64	AGACTTCTCAGG	Swab	b3	Tr1	Adv	c2	rab46	Y	Y			
-rab46_Adv_Soil_Tr1	111246	2025-5-18	T2	3	2	rab46_Adv		27.2	64	AGGGTGACTTTA	Soil	b3	Tr1	Adv	c2	rab46	Y	Y			
-rab46_Fr_Swab_Tr1	111243	2025-5-12	T0	1	1	rab46_Fr			64	ATATGTTCTCAA	Swab	b3	Tr1	Fr	c2	rab46	Y	Y			
-rab47_Ac_Swab_Tr2	111448	2025-5-15	T1	2		rab47_Ac		31.7	64	TCGTTGGGACTA	Swab	b3	Tr2	Ac	c2	rab47	N	Y			
-rab47_Ac_Soil_Tr2	111446	2025-5-15	T1	2		rab47_Ac		31.7	64	TCCGGACTCCTG	Soil	b3	Tr2	Ac	c2	rab47	N	Y			
-rab47_Adv_Soil_Tr2	111441	2025-5-18	T2	3	2	rab47_Adv		27.2	64	TTACTTATCCGA	Soil	b3	Tr2	Adv	c2	rab47	N	Y			
-rab47_Adv_Swab_Tr2	111444	2025-5-18	T2	3	2	rab47_Adv		27.2	65	GAGCGCCGAACA	Swab	b3	Tr2	Adv	c2	rab47	N	Y			
-rab47_Fr_Swab_Tr2	111439	2025-5-12	T0	1	1	rab47_Fr			65	CTCTATTCCACC	Swab	b3	Tr2	Fr	c2	rab47	N	Y			
-rab48_Ac_Soil_Tr3	111641	2025-5-15	T1	2		rab48_Ac		31.7	64	GATCTAATCGAG	Soil	b3	Tr3	Ac	c2	rab48	Y	Y			
-rab48_Ac_Swab_Tr3	111643	2025-5-15	T1	2		rab48_Ac		31.7	65	GCTATATCCAGG	Swab	b3	Tr3	Ac	c2	rab48	Y	Y			
-rab48_Adv_Soil_Tr3	111636	2025-5-18	T2	3	1.5	rab48_Adv		27.2	64	GCGAGGAAGTCC	Soil	b3	Tr3	Adv	c2	rab48	Y	Y			
-rab48_Fr_Swab_Tr3	111633	2025-5-12	T0	1	1	rab48_Fr			65	TGAAAGCGGCGA	Swab	b3	Tr3	Fr	c2	rab48	Y	Y			
-rab49_Ac_Swab_Tr0	111071	2025-5-15	T1	2	1	rab49_Ac		31.7	64	TCGAGCCGATCT	Swab	b3	Tr0	Ac	c3	rab49	N	N			
-rab49_Ac_Soil_Tr0	111069	2025-5-15	T1	2	1	rab49_Ac		31.7	64	GGTGCAGACAGA	Soil	b3	Tr0	Ac	c3	rab49	N	N			
-rab49_Adv_Swab_Tr0	111066	2025-5-18	T2	3	2.5	rab49_Adv		27.2	64	AGATTCGCTCGA	Swab	b3	Tr0	Adv	c3	rab49	N	N			
-rab49_Adv_Soil_Tr0	111064	2025-5-18	T2	3	2.5	rab49_Adv		27.2	64	TGGTGTTTATAT	Soil	b3	Tr0	Adv	c3	rab49	N	N			
-rab49_Fr_Swab_Tr0	111061	2025-5-12	T0	1	1	rab49_Fr			65	CACAATACACCG	Swab	b3	Tr0	Fr	c3	rab49	N	N			
-rab5_Ac_Swab_Tr0	110928	2025-5-15	T1	2	1	rab5_Ac		31.7	64	TGGCAGCGAGCC	Swab	b1	Tr0	Ac	c2	rab5	Y	Y			
-rab5_Ac_Soil_Tr0	110926	2025-5-15	T1	2	1	rab5_Ac		31.7	64	CAGTGCACGTCT	Soil	b1	Tr0	Ac	c2	rab5	Y	Y			
-rab5_Adv_Swab_Tr0	110923	2025-5-18	T2	3	3	rab5_Adv		27.2	64	AACTCAATAGCG	Swab	b1	Tr0	Adv	c2	rab5	Y	Y			
-rab5_Adv_Soil_Tr0	110921_2	2025-5-18	T2		3	rab5_Adv		27.2	65	ATGGATAGCTAA	Soil	b1	Tr0	Adv	c2	rab5	Y	Y			
-rab50_Ac_Swab_Tr1	111266	2025-5-15	T1	2	2	rab50_Ac		31.7	64	TTGAACAAGCCA	Swab	b3	Tr1	Ac	c3	rab50	Y	N			
-rab50_Ac_Soil_Tr1	111264	2025-5-15	T1	2	2	rab50_Ac		31.7	64	GATGCCTAATGA	Soil	b3	Tr1	Ac	c3	rab50	Y	N			
-rab50_Adv_Soil_Tr1	111259	2025-5-18	T2	3	2.5	rab50_Adv		27.2	64	AGGACAAACTAT	Soil	b3	Tr1	Adv	c3	rab50	Y	N			
-rab50_Adv_Swab_Tr1	111262	2025-5-18	T2	3	2.5	rab50_Adv		27.2	65	CTTGAGAAATCG	Swab	b3	Tr1	Adv	c3	rab50	Y	N			
-rab50_Fr_Swab_Tr1	111256	2025-5-12	T0	1	1	rab50_Fr			64	AATTAATATGTA	Swab	b3	Tr1	Fr	c3	rab50	Y	N			
-rab51_Ac_Swab_Tr2	111461	2025-5-15	T1	2	2.5	rab51_Ac		31.7	64	CTTGGAGGCTTA	Swab	b3	Tr2	Ac	c3	rab51	N	Y			
-rab51_Ac_Soil_Tr2	111459	2025-5-15	T1	2	2.5	rab51_Ac		31.7	64	CGGTCAATTGAC	Soil	b3	Tr2	Ac	c3	rab51	N	Y			
-rab51_Adv_Swab_Tr2	111456	2025-5-18	T2	3	3	rab51_Adv		27.2	64	TTCGATGCCGCA	Swab	b3	Tr2	Adv	c3	rab51	N	Y			
-rab51_Adv_Soil_Tr2	111454	2025-5-18	T2	3	3	rab51_Adv		27.2	64	CGACCTCGCATA	Soil	b3	Tr2	Adv	c3	rab51	N	Y			
-rab51_Fr_Swab_Tr2	111451	2025-5-12	T0	1	1	rab51_Fr			64	TAGTCTAAGGGT	Swab	b3	Tr2	Fr	c3	rab51	N	Y			
-rab52_Ac_Swab_Tr3	111656	2025-5-15	T1	2	2	rab52_Ac		31.7	64	AGCGCGGCGAAT	Swab	b3	Tr3	Ac	c3	rab52	Y	N			
-rab52_Ac_Soil_Tr3	111654	2025-5-15	T1	2	2	rab52_Ac		31.7	64	GACATCTGACAC	Soil	b3	Tr3	Ac	c3	rab52	Y	N			
-rab52_Adv_Soil_Tr3	111649	2025-5-18	T2	3	3	rab52_Adv		27.2	64	GTACGTCACTGA	Soil	b3	Tr3	Adv	c3	rab52	Y	N			
-rab52_Adv_Swab_Tr3	111651	2025-5-18	T2	3	3	rab52_Adv		27.2	65	GTTCGGTGTCCA	Swab	b3	Tr3	Adv	c3	rab52	Y	N			
-rab52_Fr_Swab_Tr3	111646	2025-5-12	T0	1	1	rab52_Fr			64	CCACGAGCAGGC	Swab	b3	Tr3	Fr	c3	rab52	Y	N			
-rab53_Ac_Swab_Tr0	111084	2025-5-15	T1	2	1.5	rab53_Ac		31.7	64	GTTGCTGAGTCC	Swab	b3	Tr0	Ac	c4	rab53	Y	N			
-rab53_Ac_Soil_Tr0	111082	2025-5-15	T1	2	1.5	rab53_Ac		31.7	64	ACTCACAGGAAT	Soil	b3	Tr0	Ac	c4	rab53	Y	N			
-rab53_Adv_Swab_Tr0	111079	2025-5-18	T2	3	3	rab53_Adv		27.2	64	TCCGGCGGGCAA	Swab	b3	Tr0	Adv	c4	rab53	Y	N			
-rab53_Adv_Soil_Tr0	111077	2025-5-18	T2	3	3	rab53_Adv		27.2	64	GTTAGGGAGCGA	Soil	b3	Tr0	Adv	c4	rab53	Y	N			
-rab53_Fr_Swab_Tr0	111074	2025-5-12	T0	1	1	rab53_Fr			64	ATAATTGCCGAG	Swab	b3	Tr0	Fr	c4	rab53	Y	N			
-rab54_Ac_Swab_Tr1	111279	2025-5-15	T1	2		rab54_Ac		31.7	64	GGATACTCGCAT	Swab	b3	Tr1	Ac	c4	rab54	Y	N			
-rab54_Ac_Soil_Tr1	111277	2025-5-15	T1	2		rab54_Ac		31.7	64	TATGGGTAGCTA	Soil	b3	Tr1	Ac	c4	rab54	Y	N			
-rab54_Adv_Swab_Tr1	111274	2025-5-18	T2	2.5	2.5	rab54_Adv		27.2	64	TATCATATTACG	Swab	b3	Tr1	Adv	c4	rab54	Y	N			
-rab54_Adv_Soil_Tr1	111272	2025-5-18	T2	2.5	2.5	rab54_Adv		27.2	64	TTGGACGTCCAC	Soil	b3	Tr1	Adv	c4	rab54	Y	N			
-rab54_Fr_Swab_Tr1	111269	2025-5-12	T0	1	1	rab54_Fr			64	CAATGTAGACAC	Swab	b3	Tr1	Fr	c4	rab54	Y	N			
-rab55_Ac_Swab_Tr2	111474	2025-5-15	T1	2	1	rab55_Ac		31.7	64	TCATGGCCTCCG	Swab	b3	Tr2	Ac	c4	rab55	N	N			
-rab55_Ac_Soil_Tr2	111472	2025-5-15	T1	2	1	rab55_Ac		31.7	64	ACTAGTTGGACC	Soil	b3	Tr2	Ac	c4	rab55	N	N			
-rab55_Adv_Swab_Tr2	111469	2025-5-18	T2	2.5	2	rab55_Adv		27.2	64	GATATACCAGTG	Swab	b3	Tr2	Adv	c4	rab55	N	N			
-rab55_Adv_Soil_Tr2	111467	2025-5-18	T2	2.5	2	rab55_Adv		27.2	64	AATAAGCAATAG	Soil	b3	Tr2	Adv	c4	rab55	N	N			
-rab55_Fr_Swab_Tr2	111465	2025-5-12	T0	1	1	rab55_Fr			65	ATGTATCAATTA	Swab	b3	Tr2	Fr	c4	rab55	N	N			
-rab56_Ac_Swab_Tr3	111669	2025-5-15	T1	2	1	rab56_Ac		31.7	64	GTGCCGGCCGAC	Swab	b3	Tr3	Ac	c4	rab56	N	Y			
-rab56_Ac_Soil_Tr3	111667	2025-5-15	T1	2	1	rab56_Ac		31.7	64	CCTCGCATGACC	Soil	b3	Tr3	Ac	c4	rab56	N	Y			
-rab56_Adv_Swab_Tr3	111664	2025-5-18	T2	3	1.5	rab56_Adv		27.2	64	ACCGAACAATCC	Swab	b3	Tr3	Adv	c4	rab56	N	Y			
-rab56_Adv_Soil_Tr3	111662	2025-5-18	T2	3	1.5	rab56_Adv		27.2	64	GGCTCGTCGGAG	Soil	b3	Tr3	Adv	c4	rab56	N	Y			
-rab56_Fr_Swab_Tr3	111659	2025-5-12	T0	1	1	rab56_Fr			64	CCGGCGACAGAA	Swab	b3	Tr3	Fr	c4	rab56	N	Y			
-rab57_Ac_Swab_Tr0	111097	2025-5-15	T1	2	1	rab57_Ac		31.7	64	GTACTCGAACCA	Swab	b3	Tr0	Ac	c5	rab57	Y	Y			
-rab57_Ac_Soil_Tr0	111095	2025-5-15	T1	2	1	rab57_Ac		31.7	64	CTTGTGCGACAA	Soil	b3	Tr0	Ac	c5	rab57	Y	Y			
-rab57_Adv_Swab_Tr0	111092	2025-5-18	T2	3	2	rab57_Adv		27.2	64	TCGTTATTCAGT	Swab	b3	Tr0	Adv	c5	rab57	Y	Y			
-rab57_Adv_Soil_Tr0	111090	2025-5-18	T2	3	2	rab57_Adv		27.2	64	CTCCCACTAGAG	Soil	b3	Tr0	Adv	c5	rab57	Y	Y			
-rab57_Fr_Swab_Tr0	111087	2025-5-12	T0	1	1	rab57_Fr			64	TCCACAGGGTTC	Swab	b3	Tr0	Fr	c5	rab57	Y	Y			
-rab58_Ac_Soil_Tr1	111290	2025-5-15	T1	2	1	rab58_Ac		31.7	64	GTCGTTACCCGC	Soil	b3	Tr1	Ac	c5	rab58	Y	Y			
-rab58_Ac_Swab_Tr1	111292	2025-5-15	T1	2	1	rab58_Ac		31.7	65	AGAAGGCCTTAT	Swab	b3	Tr1	Ac	c5	rab58	Y	Y			
-rab58_Adv_Swab_Tr1	111287	2025-5-18	T2	3	1.5	rab58_Adv		27.2	64	ATTATGATTATG	Swab	b3	Tr1	Adv	c5	rab58	Y	Y			
-rab58_Adv_Soil_Tr1	111285	2025-5-18	T2	3	1.5	rab58_Adv		27.2	64	AGTACGCAGTCT	Soil	b3	Tr1	Adv	c5	rab58	Y	Y			
-rab58_Fr_Swab_Tr1	111282	2025-5-12	T0	1	1	rab58_Fr			64	GTCAGGTGCGGC	Swab	b3	Tr1	Fr	c5	rab58	Y	Y			
-rab59_Ac_Swab_Tr2	111487	2025-5-15	T1	2	2	rab59_Ac		31.7	64	GGAGAACGACAC	Swab	b3	Tr2	Ac	c5	rab59	N	N			
-rab59_Ac_Soil_Tr2	111485	2025-5-15	T1	2	2	rab59_Ac		31.7	64	GATCCGGCAGGA	Soil	b3	Tr2	Ac	c5	rab59	N	N			
-rab59_Adv_Soil_Tr2	111480	2025-5-18	T2	3	1.5	rab59_Adv		27.2	64	CTCCACATTCCT	Soil	b3	Tr2	Adv	c5	rab59	N	N			
-rab59_Adv_Swab_Tr2	111483	2025-5-18	T2	3	1.5	rab59_Adv		27.2	65	CGCAGATTAGTA	Swab	b3	Tr2	Adv	c5	rab59	N	N			
-rab59_Fr_Swab_Tr2	111477	2025-5-12	T0	1	1	rab59_Fr			64	CACACAAAGTCA	Swab	b3	Tr2	Fr	c5	rab59	N	N			
-rab6_Ac_Soil_Tr1	111121	2025-5-15	T1	2	3	rab6_Ac		31.7	64	AAGGCGCTCCTT	Soil	b1	Tr1	Ac	c2	rab6	N	Y			
-rab6_Ac_Swab_Tr1	111123	2025-5-15	T1	2	3	rab6_Ac		31.7	65	ATTTGCTTTGCC	Swab	b1	Tr1	Ac	c2	rab6	N	Y			
-rab6_Adv_Swab_Tr1	111118	2025-5-18	T2	3	3	rab6_Adv		27.2	64	ATGTGCTGCTCG	Swab	b1	Tr1	Adv	c2	rab6	N	Y			
-rab6_Adv_Soil_Tr1	111116	2025-5-18	T2	3	3	rab6_Adv		27.2	64	GTTGTTCTGGGA	Soil	b1	Tr1	Adv	c2	rab6	N	Y			
-rab60_Ac_Swab_Tr3	111682	2025-5-15	T1	2	3	rab60_Ac		31.7	64	TAGCAGTTGCGT	Swab	b3	Tr3	Ac	c5	rab60	N	N			
-rab60_Ac_Soil_Tr3	111680	2025-5-15	T1	2	3	rab60_Ac		31.7	64	GCGTGGTCATTA	Soil	b3	Tr3	Ac	c5	rab60	N	N			
-rab60_Adv_Soil_Tr3	111675	2025-5-18	T2	3	3	rab60_Adv		27.2	64	TCTTCCTAAAGT	Soil	b3	Tr3	Adv	c5	rab60	N	N			
-rab60_Adv_Swab_Tr3	111677	2025-5-18	T2	3	3	rab60_Adv		27.2	65	AATATCGGGATC	Swab	b3	Tr3	Adv	c5	rab60	N	N			
-rab60_Fr_Swab_Tr3	111672	2025-5-12	T0	1	1	rab60_Fr			64	AGTGCAGGAGCC	Swab	b3	Tr3	Fr	c5	rab60	N	N			
-rab7_Ac_Swab_Tr2	111318	2025-5-15	T1	2	3	rab7_Ac		31.7	64	ACTGTGACGTCC	Swab	b1	Tr2	Ac	c2	rab7	N	Y			
-rab7_Ac_Soil_Tr2	111316	2025-5-15	T1	2	3	rab7_Ac		31.7	64	CGCGCAAGTATT	Soil	b1	Tr2	Ac	c2	rab7	N	Y			
-rab7_Adv_Swab_Tr2	111313	2025-5-18	T2		3	rab7_Adv		27.2	64	TTCCACACGTGG	Swab	b1	Tr2	Adv	c2	rab7	N	Y			
-rab7_Adv_Soil_Tr2	111311	2025-5-18	T2		3	rab7_Adv		27.2	64	TCATCCGTCGGC	Soil	b1	Tr2	Adv	c2	rab7	N	Y			
-rab8_Ac_Soil_Tr3	111511	2025-5-15	T1	2	3	rab8_Ac		31.7	64	TCAGTCAGATGA	Soil	b1	Tr3	Ac	c2	rab8	Y	N			
-rab8_Ac_Swab_Tr3	111514	2025-5-15	T1	2	1.5	rab8_Ac		31.7	65	CGCGGCGCAGCT	Swab	b1	Tr3	Ac	c2	rab8	Y	N			
-rab8_Adv_Soil_Tr3	111506	2025-5-18	T2		3	rab8_Adv		27.2	64	GCAAAGGCCCGC	Soil	b1	Tr3	Adv	c2	rab8	Y	N			
-rab8_Adv_Swab_Tr3	111509	2025-5-18	T2		1.5	rab8_Adv		27.2	65	CGCTGGCTTTAG	Swab	b1	Tr3	Adv	c2	rab8	Y	N			
-rab9_Ac_Swab_Tr0	110941	2025-5-15	T1	2	3	rab9_Ac		31.7	64	AACAGTAAACAA	Swab	b1	Tr0	Ac	c3	rab9	Y	Y			
-rab9_Ac_Soil_Tr0	110939	2025-5-15	T1	2	3	rab9_Ac		31.7	64	ATATTGGCAGCC	Soil	b1	Tr0	Ac	c3	rab9	Y	Y			
-rab9_Adv_Soil_Tr0	110934	2025-5-18	T2		1.5	rab9_Adv		27.2	64	GCATTACTGGAC	Soil	b1	Tr0	Adv	c3	rab9	Y	Y			
-rab9_Adv_Swab_Tr0	110937	2025-5-18	T2		2.5	rab9_Adv		27.2	65	TACTTAAACATC	Swab	b1	Tr0	Adv	c3	rab9	Y	Y			
-PC2_4_SR64	PC2_4_SR64								64	CACCATCTCCGG											
-PC2_3_SR64	PC2_3_SR64								64	ACATAGCGGTTC											
-PC2_2_SR64	PC2_2_SR64								64	TGAGTCATTGAG											
-PC2_1_SR64	PC2_1_SR64								64	GAAATCTTGAAG											
-PC1_4_SR64	PC1_4_SR64								64	AATACAGACCTG											
-PC1_3_SR64	PC1_3_SR64								64	GCGCACACCTTC											
-PC1_2_SR64	PC1_2_SR64								64	TCAGACCAACTG											
-PC1_1_SR64	PC1_1_SR64								64	TACTAACGCGGT											
-EC6_3_SR64	EC6_3_SR64								64	GCGCTTAGAATA											
-EC6_2_SR64	EC6_2_SR64								64	TAATCCATAATC											
-EC6_1_SR64	EC6_1_SR64								64	TAATCGGTGCCA											
-EC5_4_SR64	EC5_4_SR64								64	GTCGCTTGCACA											
-EC5_3_SR64	EC5_3_SR64								64	GCACGCGAGCAC											
-EC5_2_SR64	EC5_2_SR64								64	CGAGGCGAGTCA											
-EC5_1_SR64	EC5_1_SR64								64	TATCCAAGCGCA											
-EC4_4_SR64	EC4_4_SR64								64	CCGGCTTATGTG											
-EC4_3_SR64	EC4_3_SR64								64	TATCCTGGTTTC											
-EC4_2_SR64	EC4_2_SR64								64	CATTTCGCACTT											
-EC2_4_SR64	EC2_4_SR64								64	ATGCCTCGTAAG											
-EC1_1_SR64	EC1_1_SR64								64	TGTGCACGCCAT											
-insect_32_WholeSpecimen	insect_32	5-14-2025							64	TCCATACCGGAA	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_33_WholeSpecimen	insect_33	5-14-2025							64	AGCCCTGCTACA	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_35_WholeSpecimen	insect_35	5-14-2025							64	CGCGCCTTAAAC	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_36_WholeSpecimen	insect_36	5-14-2025							64	TATGGTACCCAG	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_37_WholeSpecimen	insect_37	5-14-2025							64	TACAATATCTGT	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_38_WholeSpecimen	insect_38	5-14-2025							64	AATTTAGGTAGG	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_39_WholeSpecimen	insect_39	5-14-2025							64	GACTCAACCAGT	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_40_WholeSpecimen	insect_40	5-14-2025							64	GCCTCTACGTCG	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_41_WholeSpecimen	insect_41	5-14-2025							64	ACTACTGAGGAT	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_42_WholeSpecimen	insect_42	5-14-2025							64	AATTCACCTCCT	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_44_WholeSpecimen	insect_44	5-14-2025							64	ATGCTGCAACAC	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_45_WholeSpecimen	insect_45	5-14-2025							64	TTCCTTAGTAGT	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_47_WholeSpecimen	insect_47	5-14-2025							64	ACGTGAGGAACG	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_48_WholeSpecimen	insect_48	5-14-2025							64	GGTTGCCCTGTA	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_49_WholeSpecimen	insect_49	5-14-2025							64	CATATAGCCCGA	Insect								Chrysomya rufifacies	Endogenous	WholeSpecimen
-insect_51_WholeSpecimen	insect_51	5-14-2025							64	CAAGTGAAGGGA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_52_WholeSpecimen	insect_52	5-14-2025							64	CACGTTTATTCC	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_53_WholeSpecimen	insect_53	5-14-2025							64	TGACTAATGGCC	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_54_WholeSpecimen	insect_54	5-14-2025							64	CGGGACACCCGA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_55_WholeSpecimen	insect_55	5-14-2025							64	CTGTCTATACTA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_56_WholeSpecimen	insect_56	5-14-2025							64	TATGCCAGAGAT	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_57_WholeSpecimen	insect_57	5-14-2025							64	CGTTTGGAATGA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_58_WholeSpecimen	insect_58	5-14-2025							64	AAGAACTCATGA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_59_WholeSpecimen	insect_59	5-14-2025							64	TGATATCGTCTT	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_60_WholeSpecimen	insect_60	5-14-2025							64	CGGTGACCTACT	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_61_WholeSpecimen	insect_61	5-14-2025							64	AATGCGCGTATA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_62_WholeSpecimen	insect_62	5-14-2025							64	CTTGATTCTTGA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_63_WholeSpecimen	insect_63	5-14-2025							64	GAGATACAGTTC	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_64_WholeSpecimen	insect_64	5-14-2025							64	GTGGAGTCTCAT	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_65_WholeSpecimen	insect_65	5-14-2025							64	ACCTTACACCTT	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_66_WholeSpecimen	insect_66	5-14-2025							64	TAATCTCGCCGG	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_67_WholeSpecimen	insect_67	5-14-2025							64	ATCTAGTGGCAA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_68_WholeSpecimen	insect_68	5-14-2025							64	ACGCTTAACGAC	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_69_WholeSpecimen	insect_69	5-14-2025							64	TACGGATTATGG	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_70_WholeSpecimen	insect_70	5-14-2025							64	ATACATGCAAGA	Insect								Cochliomyia macellaria	Endogenous	WholeSpecimen
-insect_71_WholeSpecimen	insect_71	5-14-2025							64	CTTAGTGCAGAA	Insect								Hydrotea aenescens	Endogenous	WholeSpecimen
-insect_72_WholeSpecimen	insect_72	5-14-2025							64	AGGATCAGGGAA	Insect								Hydrotea aenescens	Endogenous	WholeSpecimen
-insect_73_WholeSpecimen	insect_73	5-14-2025							64	AATAACTAGGGT	Insect								Hydrotea aenescens	Endogenous	WholeSpecimen
-insect_74_WholeSpecimen	insect_74	5-14-2025							64	TATTGCAGCAGC	Insect								Chrysomya megacephala	Endogenous	WholeSpecimen
-insect_75_WholeSpecimen	insect_75	5-14-2025							64	TGATGTGCTAAG	Insect								Chrysomya megacephala	Endogenous	WholeSpecimen
-insect_76_WholeSpecimen	insect_76	5-14-2025							64	GTAGTAGACCAT	Insect								Chrysomya megacephala	Endogenous	WholeSpecimen
-insect_77_WholeSpecimen	insect_77	5-14-2025							64	AGTAAAGATCGT	Insect								Chrysomya megacephala	Endogenous	WholeSpecimen
-insect_78_WholeSpecimen	insect_78	5-14-2025							64	CTCGCCCTCGCC	Insect								Chrysomya megacephala	Endogenous	WholeSpecimen
-insect_79_WholeSpecimen	insect_79	5-14-2025							64	TCTCTTTCGACA	Insect								Chrysomya megacephala	Endogenous	WholeSpecimen
-insect_80_WholeSpecimen	insect_80	5-14-2025							64	ACATACTGAGCA	Insect								Lucilia coeruleiviridis	Endogenous	WholeSpecimen
-insect_81_WholeSpecimen	insect_81	5-14-2025							64	GTTGATACGATG	Insect								Lucilia coeruleiviridis	Endogenous	WholeSpecimen
-insect_83_WholeSpecimen	insect_83	5-14-2025							64	TGAGACCCTACA	Insect								Lucilia coeruleiviridis	Endogenous	WholeSpecimen
-insect_84_WholeSpecimen	insect_84	5-14-2025							64	ACTTGGTGTAAG	Insect								Lucilia coeruleiviridis	Endogenous	WholeSpecimen
-insect_85_WholeSpecimen	insect_85	5-14-2025							64	ATTACGTATCAT	Insect								Lucilia coeruleiviridis	Endogenous	WholeSpecimen
-insect_86_WholeSpecimen	insect_86	5-14-2025							64	CACGCAGTCTAC	Insect								Phoridae sp.	Endogenous	WholeSpecimen
-PC2_6_SR65	PC2_6_SR65								65	CTCATATGCTAT											
-PC2_2_SR65	PC2_2_SR65								65	AGCGGTAGCGGT											
-PC1_6_SR65	PC1_6_SR65								65	GGTAATAGAGTT											
-PC1_2_SR65	PC1_2_SR65								65	ACTGGCAAACCT											
-EC6_6_SR65	EC6_6_SR65								65	AGCCCGCAAAGG											
-EC5_6_SR65	EC5_6_SR65								65	ACGGCCCTGGAG											
-EC5_2_SR65	EC5_2_SR65								65	TCTGGCTACGAC											
-EC4_6_SR65	EC4_6_SR65								65	GTTGACCATCGC											
-EC4_2_SR65	EC4_2_SR65								65	TGGCGCACGGAC											
-EC2_2_SR65	EC2_2_SR65								65	CGTTCGCTAGCC											
-insect_100_Abdomen	insect_100	5-15-2025							65	GTTTGGCCACAC	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_100_HeadThorax	insect_100_h	5-21-2025							65	CGCTAGGATGTT	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_100_Wash	insect_100_w	5-21-2025							65	AGACTATTTCAT	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_125_Abdomen	insect_125	5-15-2025							65	GTCCTACACAGC	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_125_HeadThorax	insect_125_h	5-21-2025							65	ACAGTTGTACGC	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_125_Wash	insect_125_w	5-21-2025							65	AGCGATTCCTCG	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_126_Abdomen	insect_126	5-15-2025							65	ATTTACAATTGA	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_126_HeadThorax	insect_126_h	5-21-2025							65	GTCAGTATGGCT	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_126_Wash	insect_126_w	5-21-2025							65	ACCACCGTAACC	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_127_Abdomen	insect_127	5-15-2025							65	CCACTGCCCACC	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_127_HeadThorax	insect_127_h	5-21-2025							65	CATAAGGGAGGC	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_127_Wash	insect_127_w	5-21-2025							65	AGGAAGTAACTT	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_128_Abdomen	insect_128	5-15-2025							65	ATAGTTAGGGCT	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_128_HeadThorax	insect_128_h	5-21-2025							65	CAGGCCACTCTC	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_128_Wash	insect_128_w	5-21-2025							65	CATGATTAAGAG	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_129_Abdomen	insect_129	5-15-2025							65	GACCCGTTTCGC	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_129_HeadThorax	insect_129_h	5-21-2025							65	ACCAGAAATGTC	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_129_Wash	insect_129_w	5-21-2025							65	CTCACCTAGGAA	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_130_Abdomen	insect_130	5-15-2025							65	TGACTGCGTTAG	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_130_HeadThorax	insect_130_h	5-21-2025							65	CTCATCATGTTC	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_130_Wash	insect_130_w	5-21-2025							65	GCATTCGGCGTT	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_131_Abdomen	insect_131	5-15-2025							65	ACGTTAATATTC	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_131_HeadThorax	insect_131_h	5-21-2025							65	TTAGGATTCTAT	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_131_Wash	insect_131_w	5-21-2025							65	TCTACATACATA	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_132_Abdomen	insect_132	5-15-2025							65	TCTAACGAGTGC	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_132_HeadThorax	insect_132_h	5-21-2025							65	AGATGCAATGAT	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_132_Wash	insect_132_w	5-21-2025							65	GAGTCTTGGTAA	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_31_Wash	insect_31_w	5-21-2025							65	CAGTCTAGTACG	Insect								Chrysomya rufifacies	Exogenous	Wash
-insect_34_Wash	insect_34_w	5-21-2025							65	CGGTTGGCGGGT	Insect								Chrysomya rufifacies	Exogenous	Wash
-insect_36_Wash	insect_36_w	5-21-2025							65	TGCCTGCTCGAC	Insect								Chrysomya rufifacies	Exogenous	Wash
-insect_39_Wash	insect_39_w	5-21-2025							65	ACCAGTGACTCA	Insect								Chrysomya rufifacies	Exogenous	Wash
-insect_42_Wash	insect_42_w	5-21-2025							65	CGGCCTAAGTTC	Insect								Chrysomya rufifacies	Exogenous	Wash
-insect_44_Wash	insect_44_w	5-21-2025							65	AGAGACGCGTAG	Insect								Chrysomya rufifacies	Exogenous	Wash
-insect_47_Wash	insect_47_w	5-21-2025							65	TCTTACCCATAA	Insect								Chrysomya rufifacies	Exogenous	Wash
-insect_51_Wash	insect_51_w	5-21-2025							65	ACTGCCCGATAC	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_52_Wash	insect_52_w	5-21-2025							65	TTCTTAACGCCT	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_53_Wash	insect_53_w	5-21-2025							65	CTCCCGAGCTCC	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_54_Wash	insect_54_w	5-21-2025							65	TAGACTTCAGAG	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_55_Wash	insect_55_w	5-21-2025							65	ACTTAGACTCTT	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_56_Wash	insect_56_w	5-21-2025							65	GGACCTGGATGG	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_58_Wash	insect_58_w	5-21-2025							65	ATACCGTCTTTC	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_59_Wash	insect_59_w	5-21-2025							65	TGTGCTTGTAGG	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_61_Wash	insect_61_w	5-21-2025							65	CTAACCTCATAT	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_62_Wash	insect_62_w	5-21-2025							65	GAGAATGGAAAG	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_63_Wash	insect_63_w	5-21-2025							65	AGCTTCGACAGT	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_64_Wash	insect_64_w	5-21-2025							65	AGCAACATTGCA	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_65_Wash	insect_65_w	5-21-2025							65	GCCAAGGATAGG	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_66_Wash	insect_66_w	5-21-2025							65	GAGAGGGATCAC	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_67_Wash	insect_67_w	5-21-2025							65	CATTCAGTTATA	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_68_Wash	insect_68_w	5-21-2025							65	ACGCCGAGGTAG	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_69_Wash	insect_69_w	5-21-2025							65	GTTCCATCGGCC	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_70_Wash	insect_70_w	5-21-2025							65	TGGCCGTTACTG	Insect								Cochliomyia macellaria	Exogenous	Wash
-insect_71_Wash	insect_71_w	5-21-2025							65	CCAGATATAGCA	Insect								Hydrotea aenescens	Exogenous	Wash
-insect_72_Wash	insect_72_w	5-21-2025							65	CTTCGGAGGGAG	Insect								Hydrotea aenescens	Exogenous	Wash
-insect_73_Wash	insect_73_w	5-21-2025							65	TAGGAGAGACAG	Insect								Hydrotea aenescens	Exogenous	Wash
-insect_74_Wash	insect_74_w	5-21-2025							65	TAAGAAACGTCA	Insect								Chrysomya megacephala	Exogenous	Wash
-insect_75_Wash	insect_75_w	5-21-2025							65	GCTTCATTTCTG	Insect								Chrysomya megacephala	Exogenous	Wash
-insect_76_Wash	insect_76_w	5-21-2025							65	AATCTAACAATT	Insect								Chrysomya megacephala	Exogenous	Wash
-insect_78_Wash	insect_78_w	5-21-2025							65	GAACAAAGAGCG	Insect								Chrysomya megacephala	Exogenous	Wash
-insect_80_Wash	insect_80_w	5-21-2025							65	AGGAACCAGACG	Insect								Lucilia coeruleiviridis	Exogenous	Wash
-insect_81_Wash	insect_81_w	5-21-2025							65	TATCGTTATCGT	Insect								Lucilia coeruleiviridis	Exogenous	Wash
-insect_82_Wash	insect_82_w	5-21-2025							65	ACCTATGGTGAA	Insect								Lucilia coeruleiviridis	Exogenous	Wash
-insect_84_Wash	insect_84_w	5-21-2025							65	GGTGTGAGAAAG	Insect								Lucilia coeruleiviridis	Exogenous	Wash
-insect_85_Wash	insect_85_w	5-21-2025							65	CAGTAGCGATAT	Insect								Lucilia coeruleiviridis	Exogenous	Wash
-insect_88_Abdomen	insect_88	5-15-2025							65	TAGGACGGGAGT	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_88_HeadThorax	insect_88_h	5-21-2025							65	GATCCCACGTAC	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_88_Wash	insect_88_w	5-21-2025							65	ACACGTTTGGGT	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_89_Abdomen	insect_89	5-15-2025							65	AAGTCTTATCTC	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_89_HeadThorax	insect_89_h	5-21-2025							65	CCGCCAGCTTTG	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_89_Wash	insect_89_w	5-21-2025							65	CGTCGCAGCCTT	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_90_Abdomen	insect_90	5-15-2025							65	TTGCACCGTCGA	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_90_HeadThorax	insect_90_h	5-21-2025							65	TCATCTTGATTG	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_90_Wash	insect_90_w	5-21-2025							65	CTACTTACATCC	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_91_Abdomen	insect_91	5-15-2025							65	CTCCGAACAACA	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_91_HeadThorax	insect_91_h	5-21-2025							65	ACTGTTTACTGT	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_91_Wash	insect_91_w	5-21-2025							65	CGCACGTACCTC	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_92_Abdomen	insect_92	5-15-2025							65	AGTAGTTTCCTT	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_92_HeadThorax	insect_92_h	5-21-2025							65	GTCACGGACATT	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_92_Wash	insect_92_w	5-21-2025							65	GTCCTCGCGACT	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_93_Abdomen	insect_93	5-15-2025							65	CAGATCCCAACC	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_93_HeadThorax	insect_93_h	5-21-2025							65	GAATATACCTGG	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_93_Wash	insect_93_w	5-21-2025							65	GTGCAACCAATC	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_94_Abdomen	insect_94	5-15-2025							65	GATAGCACTCGT	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_94_HeadThorax	insect_94_h	5-21-2025							65	GAATCTGACAAC	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_94_Wash	insect_94_w	5-21-2025							65	ACCCAAGCGTTA	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_96_Abdomen	insect_96	5-15-2025							65	GTAATTGTAATT	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_96_HeadThorax	insect_96_h	5-21-2025							65	ATTGCCTTGATT	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_96_Wash	insect_96_w	5-21-2025							65	AACACCATCGAC	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_97_Abdomen	insect_97	5-15-2025							65	TGCTACAGACGT	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_97_HeadThorax	insect_97_h	5-21-2025							65	GAGCCCAAAGAG	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_97_Wash	insect_97_w	5-21-2025							65	TTATCCAGTCCT	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_98_Abdomen	insect_98	5-15-2025							65	AGGTGAGTTCTA	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_98_HeadThorax	insect_98_h	5-21-2025							65	CCATGTGGCTCC	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_98_Wash	insect_98_w	5-21-2025							65	GTTTATCTTAAG	Insect								Necrodes surinamensis	Exogenous	Wash
-insect_99_Abdomen	insect_99	5-15-2025							65	AACGATCATAGA	Insect								Necrodes surinamensis	Endogenous	Abdomen
-insect_99_HeadThorax	insect_99_h	5-21-2025							65	CGTTCCTTGTTA	Insect								Necrodes surinamensis	Endogenous	HeadThorax
-insect_99_Wash	insect_99_w	5-21-2025							65	GTTCGCCGCATC	Insect								Necrodes surinamensis	Exogenous	Wash
+SampleID	SampleBarcode	SamplingDate	SamplingTimepoint	TBS	SoilGrade	RabbitStage	InsectAlphaDiversity	Temperature_C	SequenceRun	Index	SampleType	Block	Trt	Stage	Cage	Rabbit	Community	EstimatedDiversity	Compromised	Skeletal	Source	Microbiota	Spectrum	EstimatedDiversity_x	InsectCommunity	IntendedDiversity	EstimatedDiversity_y	MesocosmCompromised
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical					
+Soil_Fr_Soil_NA_111689	111689	2025-5-12	T0			Soil_Fr			64	GCCCTTCCCGTG	Soil			Fr		NA 												
+Soil_Fr_Soil_NA_111687	111687	2025-5-12	T0			Soil_Fr			64	GAACGATCATGT	Soil			Fr		NA 												
+Soil_Fr_Soil_NA_111685	111685	2025-5-12	T0			Soil_Fr			64	ATGCCGGTAATA	Soil			Fr		NA 												
+Soil_Fr_Soil_NA	111691	2025-5-12	T0			Soil_Fr			64	CGTGGCTTTCCG	Soil			Fr		NA 												
+rab1_Ac_Swab_Tr0	110915	2025-5-15	T1	2	3	rab1_Ac		31.7	64	ACCTCAGTCAAG	Swab	b1	Tr0	Ac	c1	rab1			Y	Y						0.0	1.0	Y
+rab1_Ac_Soil_Tr0	110914	2025-5-15	T1	2	3	rab1_Ac		31.7	64	ACAAAGGTATCA	Soil	b1	Tr0	Ac	c1	rab1			Y	Y						0.0	1.0	Y
+rab1_Adv_Swab_Tr0	110910	2025-5-18	T2		3	rab1_Adv		27.2	64	CATGTCTTCCAT	Swab	b1	Tr0	Adv	c1	rab1			Y	Y						0.0	2.0	Y
+rab1_Adv_Soil_Tr0	110908	2025-5-18	T2		3	rab1_Adv		27.2	64	ATAACGGTGTAC	Soil	b1	Tr0	Adv	c1	rab1			Y	Y						0.0	2.0	Y
+rab10_Ac_Swab_Tr1	111136	2025-5-15	T1	2	1	rab10_Ac		31.7	64	CCTTGACCGATG	Swab	b1	Tr1	Ac	c3	rab10			N	N					Beetles	1.0	1.0	N
+rab10_Ac_Soil_Tr1	111134	2025-5-15	T1	2	1	rab10_Ac		31.7	64	AGAGGAGTCGAC	Soil	b1	Tr1	Ac	c3	rab10			N	N					Beetles	1.0	1.0	N
+rab10_Adv_Swab_Tr1	111131	2025-5-18	T2		2	rab10_Adv		27.2	64	CGCCGTACTTGC	Swab	b1	Tr1	Adv	c3	rab10			N	N					Beetles	1.0	1.0	N
+rab10_Adv_Soil_Tr1	111129	2025-5-18	T2		2	rab10_Adv		27.2	64	GACGTTAAGAAT	Soil	b1	Tr1	Adv	c3	rab10			N	N					Beetles	1.0	1.0	N
+rab11_Ac_Swab_Tr2	111332	2025-5-15	T1	2	3	rab11_Ac		31.7	64	CCAGGACAGGAA	Swab	b1	Tr2	Ac	c3	rab11			Y	Y					Mixed	2.0	2.0	N
+rab11_Ac_Soil_Tr2	111329	2025-5-15	T1	2	3	rab11_Ac		31.7	64	GGACAAGTGCGA	Soil	b1	Tr2	Ac	c3	rab11			Y	Y					Mixed	2.0	2.0	N
+rab11_Adv_Soil_Tr2	111324	2025-5-18	T2		3	rab11_Adv		27.2	64	GTCAGAGTATTG	Soil	b1	Tr2	Adv	c3	rab11			Y	Y					Mixed	2.0	2.0	N
+rab11_Adv_Swab_Tr2	111326	2025-5-18	T2		3	rab11_Adv		27.2	65	TACCTGTGTCTT	Swab	b1	Tr2	Adv	c3	rab11			Y	Y					Mixed	2.0	2.0	N
+rab12_Ac_Soil_Tr3	111524	2025-5-15	T1	2	3	rab12_Ac		31.7	64	CACAGTTGAAGT	Soil	b1	Tr3	Ac	c3	rab12			N	N					Mixed	3.0	3.0	N
+rab12_Adv_Swab_Tr3	111521	2025-5-18	T2		3	rab12_Adv		27.2	64	GTCACTCCGAAC	Swab	b1	Tr3	Adv	c3	rab12			N	N					Mixed	3.0	3.0	N
+rab12_Adv_Soil_Tr3	111519	2025-5-18	T2		3	rab12_Adv		27.2	64	AGAGCGGAACAA	Soil	b1	Tr3	Adv	c3	rab12			N	N					Mixed	3.0	3.0	N
+rab13_Ac_Swab_Tr0	110954	2025-5-15	T1	2	1	rab13_Ac		31.7	64	AGCCGCGGGTCC	Swab	b1	Tr0	Ac	c4	rab13			Y	N						0.0	0.0	N
+rab13_Ac_Soil_Tr0	110952	2025-5-15	T1	2	1	rab13_Ac		31.7	64	TTAGTTTGTCAC	Soil	b1	Tr0	Ac	c4	rab13			Y	N						0.0	0.0	N
+rab13_Adv_Soil_Tr0	110947	2025-5-18	T2		2	rab13_Adv		27.2	64	TACGGTCTGGAT	Soil	b1	Tr0	Adv	c4	rab13			Y	N						0.0	2.0	Y
+rab13_Adv_Swab_Tr0	110950	2025-5-18	T2		2	rab13_Adv		27.2	65	GGCCTATAAGTC	Swab	b1	Tr0	Adv	c4	rab13			Y	N						0.0	2.0	Y
+rab14_Ac_Soil_Tr1	111147	2025-5-15	T1	2	2	rab14_Ac		31.7	64	GTTAACTTACTA	Soil	b1	Tr1	Ac	c4	rab14			N	Y					Flies	1.0	1.0	N
+rab14_Ac_Swab_Tr1	111150	2025-5-15	T1	2	2	rab14_Ac		31.7	65	AAGCCGGGTCCG	Swab	b1	Tr1	Ac	c4	rab14			N	Y					Flies	1.0	1.0	N
+rab14_Adv_Swab_Tr1	111144	2025-5-18	T2		3	rab14_Adv		27.2	64	CCGCGTCTCAAC	Swab	b1	Tr1	Adv	c4	rab14			N	Y					Flies	1.0	1.0	N
+rab14_Adv_Soil_Tr1	111142	2025-5-18	T2		3	rab14_Adv		27.2	64	CGCGTCAAACTA	Soil	b1	Tr1	Adv	c4	rab14			N	Y					Flies	1.0	1.0	N
+rab15_Ac_Soil_Tr2	111342	2025-5-15	T1	2	1.5	rab15_Ac		31.7	64	CTGATGTACACG	Soil	b1	Tr2	Ac	c4	rab15			N	Y					Mixed	2.0	2.0	N
+rab15_Ac_Swab_Tr2	111345	2025-5-15	T1	2	1.5	rab15_Ac		31.7	65	CAGCTGGTTCAA	Swab	b1	Tr2	Ac	c4	rab15			N	Y					Mixed	2.0	2.0	N
+rab15_Adv_Swab_Tr2	111339	2025-5-18	T2		2	rab15_Adv		27.2	64	CAAACTGCGTTG	Swab	b1	Tr2	Adv	c4	rab15			N	Y					Mixed	2.0	2.0	N
+rab15_Adv_Soil_Tr2	111337	2025-5-18	T2		2	rab15_Adv		27.2	64	ATAAACGGACAT	Soil	b1	Tr2	Adv	c4	rab15			N	Y					Mixed	2.0	2.0	N
+rab16_Ac_Soil_Tr3	111537	2025-5-15	T1	2		rab16_Ac		31.7	64	CTGCGGATATAC	Soil	b1	Tr3	Ac	c4	rab16			N	N					Mixed	3.0	3.0	N
+rab16_Ac_Swab_Tr3	111540	2025-5-15	T1	2		rab16_Ac		31.7	65	AAGATCGTACTG	Swab	b1	Tr3	Ac	c4	rab16			N	N					Mixed	3.0	3.0	N
+rab16_Adv_Soil_Tr3	111532	2025-5-18	T2		3	rab16_Adv		27.2	64	CGCAATGAGGGA	Soil	b1	Tr3	Adv	c4	rab16			N	N					Mixed	3.0	5.0	Y
+rab16_Adv_Swab_Tr3	111534	2025-5-18	T2		3	rab16_Adv		27.2	65	ACCCGGATTTCG	Swab	b1	Tr3	Adv	c4	rab16			N	N					Mixed	3.0	5.0	Y
+rab17_Ac_Swab_Tr0	110967	2025-5-15	T1	2	3	rab17_Ac		31.7	64	CAGCCCTACCCA	Swab	b1	Tr0	Ac	c5	rab17			Y	Y						0.0	0.0	N
+rab17_Ac_Soil_Tr0	110965	2025-5-15	T1	2	3	rab17_Ac		31.7	64	ACATGGGCGGAA	Soil	b1	Tr0	Ac	c5	rab17			Y	Y						0.0	0.0	N
+rab17_Adv_Swab_Tr0	110962	2025-5-18	T2			rab17_Adv		27.2	64	AGATGTCCGTCA	Swab	b1	Tr0	Adv	c5	rab17			Y	Y						0.0	1.0	Y
+rab17_Adv_Soil_Tr0	110960	2025-5-18	T2			rab17_Adv		27.2	64	ATGGGACCTTCA	Soil	b1	Tr0	Adv	c5	rab17			Y	Y						0.0	1.0	Y
+rab18_Ac_Soil_Tr1	111160	2025-5-15	T1	2	1	rab18_Ac		31.7	64	ATTTGGCTCTTA	Soil	b1	Tr1	Ac	c5	rab18			N	Y					Beetles	1.0	1.0	N
+rab18_Ac_Swab_Tr1	111163	2025-5-15	T1	2	1	rab18_Ac		31.7	65	TCCTAGGTCCGA	Swab	b1	Tr1	Ac	c5	rab18			N	Y					Beetles	1.0	1.0	N
+rab18_Adv_Soil_Tr1	111155	2025-5-18	T2		3	rab18_Adv		27.2	64	CGGATCTAGTGT	Soil	b1	Tr1	Adv	c5	rab18			N	Y					Beetles	1.0	2.0	Y
+rab18_Adv_Swab_Tr1	111158	2025-5-18	T2		3	rab18_Adv		27.2	65	CGTGGTGGGAAC	Swab	b1	Tr1	Adv	c5	rab18			N	Y					Beetles	1.0	2.0	Y
+rab19_Ac_Soil_Tr2	111355	2025-5-15	T1	2	1	rab19_Ac		31.7	64	CACCCTTGCGAC	Soil	b1	Tr2	Ac	c5	rab19			N	Y					Flies	2.0	2.0	N
+rab19_Ac_Swab_Tr2	111358	2025-5-15	T1	2	1	rab19_Ac		31.7	65	CCTAAGAGCATC	Swab	b1	Tr2	Ac	c5	rab19			N	Y					Flies	2.0	2.0	N
+rab19_Adv_Soil_Tr2	111350	2025-5-18	T2		1.5	rab19_Adv		27.2	64	TCCGCTGCTGAC	Soil	b1	Tr2	Adv	c5	rab19			N	Y					Flies	2.0	2.0	N
+rab2_Ac_Swab_Tr1	111110	2025-5-15	T1	2	1	rab2_Ac		31.7	64	TAAGGTCGATAA	Swab	b1	Tr1	Ac	c1	rab2			N	N					Flies	1.0	1.0	N
+rab2_Ac_Soil_Tr1	111108	2025-5-15	T1	2	1	rab2_Ac		31.7	64	GATTCTTTAGAT	Soil	b1	Tr1	Ac	c1	rab2			N	N					Flies	1.0	1.0	N
+rab2_Adv_Swab_Tr1	111105	2025-5-18	T2		2	rab2_Adv		27.2	64	AAGTCACACACA	Swab	b1	Tr1	Adv	c1	rab2			N	N					Flies	1.0	1.0	N
+rab2_Adv_Soil_Tr1	111103	2025-5-18	T2		2	rab2_Adv		27.2	64	CGAACGTCTATG	Soil	b1	Tr1	Adv	c1	rab2			N	N					Flies	1.0	1.0	N
+rab20_Ac_Swab_Tr3	111552	2025-5-15	T1	2	1.5	rab20_Ac		31.7	64	AGATCGTGCCTA	Swab	b1	Tr3	Ac	c5	rab20			N	Y					Mixed	3.0	3.0	N
+rab20_Ac_Soil_Tr3	111550	2025-5-15	T1		1.5	rab20_Ac		31.7	64	AACGGGCGACGT	Soil	b1	Tr3	Ac	c5	rab20			N	Y					Mixed	3.0	3.0	N
+rab20_Adv_Swab_Tr3	111547	2025-5-18	T2		3	rab20_Adv		27.2	64	CCGAGGTATAAT	Swab	b1	Tr3	Adv	c5	rab20			N	Y					Mixed	3.0	3.0	N
+rab20_Adv_Soil_Tr3	111545	2025-5-18	T2		3	rab20_Adv		27.2	64	GTGAGGGCAAGT	Soil	b1	Tr3	Adv	c5	rab20			N	Y					Mixed	3.0	3.0	N
+rab21_Ac_Soil_Tr0	110978	2025-5-15	T1	2	2	rab21_Ac		31.7	64	AGGGACTTCAAT	Soil	b2	Tr0	Ac	c1	rab21			Y	Y						0.0	3.0	Y
+rab21_Ac_Swab_Tr0	110981	2025-5-15	T1	2	2	rab21_Ac		31.7	65	GTCATTGGGCTA	Swab	b2	Tr0	Ac	c1	rab21			Y	Y						0.0	3.0	Y
+rab21_Adv_Swab_Tr0	110975	2025-5-18	T2	3	2	rab21_Adv		27.2	64	CCACAACGATCA	Swab	b2	Tr0	Adv	c1	rab21			Y	Y						0.0	3.0	Y
+rab21_Adv_Soil_Tr0	110973	2025-5-18	T2	3	2	rab21_Adv		27.2	64	GCTGCGTATACC	Soil	b2	Tr0	Adv	c1	rab21			Y	Y						0.0	3.0	Y
+rab21_Fr_Swab_Tr0	110970	2025-5-12	T0	1	1	rab21_Fr			64	GTTTGAAACACG	Swab	b2	Tr0	Fr	c1	rab21			Y	Y						0.0	0.0	N
+rab22_Ac_Swab_Tr1	111175	2025-5-15	T1	2	1.5	rab22_Ac		31.7	64	TTCCAATACTCA	Swab	b2	Tr1	Ac	c1	rab22			N	Y					Flies	1.0	1.0	N
+rab22_Ac_Soil_Tr1	111173	2025-5-15	T1	2	1.5	rab22_Ac		31.7	64	CCGGCCGCGTGC	Soil	b2	Tr1	Ac	c1	rab22			N	Y					Flies	1.0	1.0	N
+rab22_Adv_Swab_Tr1	111170	2025-5-18	T2	3		rab22_Adv		27.2	64	GCGTTTGCTAGC	Swab	b2	Tr1	Adv	c1	rab22			N	Y					Flies	1.0	1.0	N
+rab22_Adv_Soil_Tr1	111168	2025-5-18	T2	3		rab22_Adv		27.2	64	TGCGCGCCTTCC	Soil	b2	Tr1	Adv	c1	rab22			N	Y					Flies	1.0	1.0	N
+rab22_Fr_Swab_Tr1	111165	2025-5-12	T0	1	1	rab22_Fr			64	GTTCTAAGGTGA	Swab	b2	Tr1	Fr	c1	rab22			N	Y					Flies	1.0	1.0	N
+rab23_Ac_Swab_Tr2	111370	2025-5-15	T1	2	2	rab23_Ac		31.7	64	TAGGAACTCACC	Swab	b2	Tr2	Ac	c1	rab23			Y	Y					Flies	2.0	2.0	N
+rab23_Ac_Soil_Tr2	111368	2025-5-15	T1	2	2	rab23_Ac		31.7	64	TTGTGTCTCCCT	Soil	b2	Tr2	Ac	c1	rab23			Y	Y					Flies	2.0	2.0	N
+rab23_Adv_Swab_Tr2	111365	2025-5-18	T2	3	2	rab23_Adv		27.2	64	AGCAGTGCGGTG	Swab	b2	Tr2	Adv	c1	rab23			Y	Y					Flies	2.0	3.0	Y
+rab23_Adv_Soil_Tr2	111363	2025-5-18	T2	3	2	rab23_Adv		27.2	64	AACGCTTCTTAT	Soil	b2	Tr2	Adv	c1	rab23			Y	Y					Flies	2.0	3.0	Y
+rab24_Ac_Swab_Tr3	111565	2025-5-15	T1	2	1.5	rab24_Ac		31.7	64	TGACAGAATCCA	Swab	b2	Tr3	Ac	c1	rab24			N	Y					Flies	3.0	3.0	N
+rab24_Ac_Soil_Tr3	111563	2025-5-15	T1	2	1.5	rab24_Ac		31.7	64	TCCGTGGTATAG	Soil	b2	Tr3	Ac	c1	rab24			N	Y					Flies	3.0	3.0	N
+rab24_Adv_Swab_Tr3	111560	2025-5-18	T2	3	2	rab24_Adv		27.2	64	GCAACGAACGAG	Swab	b2	Tr3	Adv	c1	rab24			N	Y					Flies	3.0	3.0	N
+rab24_Adv_Soil_Tr3	111558	2025-5-18	T2	3	2	rab24_Adv		27.2	64	GCTAGTTATGGA	Soil	b2	Tr3	Adv	c1	rab24			N	Y					Flies	3.0	3.0	N
+rab24_Fr_Swab_Tr3	111556	2025-5-12	T0	1	1	rab24_Fr			65	CTTCAAGATGGA	Swab	b2	Tr3	Fr	c1	rab24			N	Y					Flies	3.0	3.0	N
+rab25_Ac_Swab_Tr0	110993	2025-5-15	T1	2	1	rab25_Ac		31.7	64	ATGACTAAGATG	Swab	b2	Tr0	Ac	c2	rab25			Y	Y						0.0	1.0	Y
+rab25_Ac_Soil_Tr0	110991	2025-5-15	T1	2	1	rab25_Ac		31.7	64	TGGAGCCTTGTC	Soil	b2	Tr0	Ac	c2	rab25			Y	Y						0.0	1.0	Y
+rab25_Adv_Swab_Tr0	110988	2025-5-18	T2	3	2	rab25_Adv		27.2	64	ACTAAAGCAAAC	Swab	b2	Tr0	Adv	c2	rab25			Y	Y						0.0	2.0	Y
+rab25_Adv_Soil_Tr0	110986	2025-5-18	T2	3	2	rab25_Adv		27.2	64	AGTTGTAGTCCG	Soil	b2	Tr0	Adv	c2	rab25			Y	Y						0.0	2.0	Y
+rab25_Fr_Swab_Tr0	110984	2025-5-12	T0	1	1	rab25_Fr			65	AGGACGCCAGCA	Swab	b2	Tr0	Fr	c2	rab25			Y	Y						0.0	0.0	N
+rab26_Ac_Soil_Tr1	111186	2025-5-15	T1	2	2	rab26_Ac		31.7	64	CAATAGAATAAG	Soil	b2	Tr1	Ac	c2	rab26			Y	Y					Flies	1.0	1.0	N
+rab26_Ac_Swab_Tr1	111188	2025-5-15	T1	2	1	rab26_Ac		31.7	65	GTAAATTCAGGC	Swab	b2	Tr1	Ac	c2	rab26			Y	Y					Flies	1.0	1.0	N
+rab26_Adv_Swab_Tr1	111183	2025-5-18	T2	3		rab26_Adv		27.2	64	GCTGCCCACCTA	Swab	b2	Tr1	Adv	c2	rab26			Y	Y					Flies	1.0	1.0	N
+rab26_Adv_Soil_Tr1	111181	2025-5-18	T2	3		rab26_Adv		27.2	64	CCTATTGCGGCC	Soil	b2	Tr1	Adv	c2	rab26			Y	Y					Flies	1.0	1.0	N
+rab26_Fr_Swab_Tr1	111179	2025-5-12	T0	1	1	rab26_Fr			65	CTTTGATAATAA	Swab	b2	Tr1	Fr	c2	rab26			Y	Y					Flies	1.0	1.0	N
+rab27_Ac_Soil_Tr2	111381	2025-5-15	T1	2	1.5	rab27_Ac		31.7	64	CATTCGTGGCGT	Soil	b2	Tr2	Ac	c2	rab27			N	Y					Flies	2.0	2.0	N
+rab27_Ac_Swab_Tr2	111383	2025-5-15	T1	2	1.5	rab27_Ac		31.7	65	TGGACTCAGCTA	Swab	b2	Tr2	Ac	c2	rab27			N	Y					Flies	2.0	2.0	N
+rab27_Adv_Swab_Tr2	111378	2025-5-18	T2	3	1.5	rab27_Adv		27.2	64	GCCACCGCCGGA	Swab	b2	Tr2	Adv	c2	rab27			N	Y					Flies	2.0	2.0	N
+rab27_Adv_Soil_Tr2	111376	2025-5-18	T2	3	1.5	rab27_Adv		27.2	64	TACTGAGCCTCG	Soil	b2	Tr2	Adv	c2	rab27			N	Y					Flies	2.0	2.0	N
+rab27_Fr_Swab_Tr2	111374	2025-5-12	T0	1	1	rab27_Fr			65	CTCTTCTGATCA	Swab	b2	Tr2	Fr	c2	rab27			N	Y					Flies	2.0	2.0	N
+rab28_Ac_Swab_Tr3	111578	2025-5-15	T1	2	1.5	rab28_Ac		31.7	64	CTACTCCACGAG	Swab	b2	Tr3	Ac	c2	rab28			N	Y					Flies	3.0	3.0	N
+rab28_Ac_Soil_Tr3	111576	2025-5-15	T1	2	1.5	rab28_Ac		31.7	64	CAAATTCGGGAT	Soil	b2	Tr3	Ac	c2	rab28			N	Y					Flies	3.0	3.0	N
+rab28_Adv_Swab_Tr3	111573	2025-5-18	T2	3	3	rab28_Adv		27.2	64	CAGGAACCAGGA	Swab	b2	Tr3	Adv	c2	rab28			N	Y					Flies	3.0	3.0	N
+rab28_Adv_Soil_Tr3	111571	2025-5-18	T2	3	3	rab28_Adv		27.2	64	CATTTGACGACG	Soil	b2	Tr3	Adv	c2	rab28			N	Y					Flies	3.0	3.0	N
+rab29_Ac_Swab_Tr0	111006	2025-5-15	T1	2	1	rab29_Ac		31.7	64	TCCGATAATCGG	Swab	b2	Tr0	Ac	c3	rab29			Y	Y						0.0	1.0	Y
+rab29_Ac_Soil_Tr0	111004	2025-5-15	T1	2	1	rab29_Ac		31.7	64	CTGGTGCTGAAT	Soil	b2	Tr0	Ac	c3	rab29			Y	Y						0.0	1.0	Y
+rab29_Adv_Swab_Tr0	111001	2025-5-18	T2	3	1	rab29_Adv		27.2	64	CCTCCGTCATGG	Swab	b2	Tr0	Adv	c3	rab29			Y	Y						0.0	2.0	Y
+rab29_Adv_Soil_Tr0	110999	2025-5-18	T2	3	1	rab29_Adv		27.2	64	GTTAAGCTGACC	Soil	b2	Tr0	Adv	c3	rab29			Y	Y						0.0	2.0	Y
+rab29_Fr_Swab_Tr0	110996	2025-5-12	T0	1	1	rab29_Fr			64	TTAATGGATCGG	Swab	b2	Tr0	Fr	c3	rab29			Y	Y						0.0	0.0	N
+rab3_Ac_Soil_Tr2	111303	2025-5-15	T1	2	2	rab3_Ac		31.7	64	ACTAAGTACCCG	Soil	b1	Tr2	Ac	c1	rab3			Y	N					Flies	2.0	3.0	Y
+rab3_Ac_Swab_Tr2	111306	2025-5-15	T1	2	2	rab3_Ac		31.7	65	CATAAATTCTTG	Swab	b1	Tr2	Ac	c1	rab3			Y	N					Flies	2.0	3.0	Y
+rab3_Adv_Swab_Tr2	111300	2025-5-18	T2		1.5	rab3_Adv		27.2	64	CTTGCTCATAAT	Swab	b1	Tr2	Adv	c1	rab3			Y	N					Flies	2.0	4.0	Y
+rab3_Adv_Soil_Tr2	111298	2025-5-18	T2		1.5	rab3_Adv		27.2	64	TGAACCCTATGG	Soil	b1	Tr2	Adv	c1	rab3			Y	N					Flies	2.0	4.0	Y
+rab30_Ac_Swab_Tr1	111201	2025-5-15	T1	2	1	rab30_Ac		31.7	64	TAAACCTGGACA	Swab	b2	Tr1	Ac	c3	rab30			Y	Y					Flies	1.0	2.0	Y
+rab30_Ac_Soil_Tr1	111199	2025-5-15	T1	2	1	rab30_Ac		31.7	64	GGCTTCGGAGCG	Soil	b2	Tr1	Ac	c3	rab30			Y	Y					Flies	1.0	2.0	Y
+rab30_Adv_Swab_Tr1	111196	2025-5-18	T2	3	3	rab30_Adv		27.2	64	ATTTCCGCTAAT	Swab	b2	Tr1	Adv	c3	rab30			Y	Y					Flies	1.0	4.0	Y
+rab30_Adv_Soil_Tr1	111194	2025-5-18	T2	3	3	rab30_Adv		27.2	64	GCCTAGCCCAAT	Soil	b2	Tr1	Adv	c3	rab30			Y	Y					Flies	1.0	4.0	Y
+rab30_Fr_Swab_Tr1	111192	2025-5-12	T0	1	1	rab30_Fr			65	AGACAGTAGGAG	Swab	b2	Tr1	Fr	c3	rab30			Y	Y					Flies	1.0	1.0	N
+rab31_Ac_Soil_Tr2	111394	2025-5-15	T1	2	1	rab31_Ac		31.7	64	CAGTCCCTGCAC	Soil	b2	Tr2	Ac	c3	rab31			N	N					Flies	2.0	2.0	N
+rab31_Ac_Swab_Tr2	111397	2025-5-15	T1	2	1	rab31_Ac		31.7	65	ACACGCGGTTTA	Swab	b2	Tr2	Ac	c3	rab31			N	N					Flies	2.0	2.0	N
+rab31_Adv_Swab_Tr2	111391	2025-5-18	T2	2	1	rab31_Adv		27.2	64	TACAGCGCATAC	Swab	b2	Tr2	Adv	c3	rab31			N	N					Flies	2.0	2.0	N
+rab31_Adv_Soil_Tr2	111389	2025-5-18	T2	2	1	rab31_Adv		27.2	64	ATGTTAGGGAAT	Soil	b2	Tr2	Adv	c3	rab31			N	N					Flies	2.0	2.0	N
+rab31_Fr_Swab_Tr2	111387	2025-5-12	T0	1	1	rab31_Fr			65	TCTACGGCACGT	Swab	b2	Tr2	Fr	c3	rab31			N	N					Flies	2.0	2.0	N
+rab32_Ac_Swab_Tr3	111591	2025-5-15	T1	2	1.5	rab32_Ac		31.7	64	TTAACAAGGCAA	Swab	b2	Tr3	Ac	c3	rab32			Y	Y					Mixed	3.0	3.0	N
+rab32_Ac_Soil_Tr3	111589	2025-5-15	T1	2	1.5	rab32_Ac		31.7	64	CCGCAGCCGCAG	Soil	b2	Tr3	Ac	c3	rab32			Y	Y					Mixed	3.0	3.0	N
+rab32_Adv_Swab_Tr3	111587	2025-5-18	T2	3	2	rab32_Adv		27.2	64	GGTAGTTCATAG	Swab	b2	Tr3	Adv	c3	rab32			Y	Y					Mixed	3.0	3.0	N
+rab32_Adv_Soil_Tr3	111584	2025-5-18	T2	3	2	rab32_Adv		27.2	64	TAGCGCGAACTT	Soil	b2	Tr3	Adv	c3	rab32			Y	Y					Mixed	3.0	3.0	N
+rab32_Fr_Swab_Tr3	111582	2025-5-12	T0	1	1	rab32_Fr			65	CGAGGGAAAGTC	Swab	b2	Tr3	Fr	c3	rab32			Y	Y					Mixed	3.0	3.0	N
+rab33_Ac_Swab_Tr0	111019	2025-5-15	T1	2	1.5	rab33_Ac		31.7	64	TCAAGTCCGCAC	Swab	b2	Tr0	Ac	c4	rab33			Y	Y						0.0	1.0	Y
+rab33_Ac_Soil_Tr0	111017	2025-5-15	T1	2	1.5	rab33_Ac		31.7	64	ACGTGCCTTAGA	Soil	b2	Tr0	Ac	c4	rab33			Y	Y						0.0	1.0	Y
+rab33_Adv_Swab_Tr0	111014	2025-5-18	T2	3		rab33_Adv		27.2	64	AACTTTCAGGAG	Swab	b2	Tr0	Adv	c4	rab33			Y	Y						0.0	1.0	Y
+rab33_Adv_Soil_Tr0	111012	2025-5-18	T2	3		rab33_Adv		27.2	64	GTTGGTTGGCAT	Soil	b2	Tr0	Adv	c4	rab33			Y	Y						0.0	1.0	Y
+rab33_Fr_Swab_Tr0	111010	2025-5-12	T0	1	1	rab33_Fr			65	GAATGCGTATAA	Swab	b2	Tr0	Fr	c4	rab33			Y	Y						0.0	0.0	N
+rab34_Ac_Soil_Tr1	111212	2025-5-15	T1	2	2	rab34_Ac		31.7	64	CCTGCACCTGCA	Soil	b2	Tr1	Ac	c4	rab34			N	N					Beetles	1.0	1.0	N
+rab34_Ac_Swab_Tr1	111215	2025-5-15	T1	2	2	rab34_Ac		31.7	65	CAAATGGTCGTC	Swab	b2	Tr1	Ac	c4	rab34			N	N					Beetles	1.0	1.0	N
+rab34_Adv_Soil_Tr1	111207	2025-5-18	T2	3		rab34_Adv		27.2	64	CGCAAGCCCGCG	Soil	b2	Tr1	Adv	c4	rab34			N	N					Beetles	1.0	1.0	N
+rab34_Fr_Swab_Tr1	111205	2025-5-12	T0	1	1	rab34_Fr			65	AGACACCAATGT	Swab	b2	Tr1	Fr	c4	rab34			N	N					Beetles	1.0	1.0	N
+rab35_Ac_Soil_Tr2	111407	2025-5-15	T1	2	1.5	rab35_Ac		31.7	64	GTCTCCTCCCTT	Soil	b2	Tr2	Ac	c4	rab35			N	N					Flies	2.0	2.0	N
+rab35_Ac_Swab_Tr2	111410	2025-5-15	T1	2	1.5	rab35_Ac		31.7	65	ATAGACACTCCG	Swab	b2	Tr2	Ac	c4	rab35			N	N					Flies	2.0	2.0	N
+rab35_Adv_Soil_Tr2	111402	2025-5-18	T2	2		rab35_Adv		27.2	64	ACGGCGTTATGT	Soil	b2	Tr2	Adv	c4	rab35			N	N					Flies	2.0	2.0	N
+rab35_Adv_Swab_Tr2	111405	2025-5-18	T2	3		rab35_Adv		27.2	65	CTGTAAAGGTTG	Swab	b2	Tr2	Adv	c4	rab35			N	N					Flies	2.0	2.0	N
+rab35_Fr_Swab_Tr2	111400	2025-5-12	T0	1	1	rab35_Fr			65	TCATACAGCCAG	Swab	b2	Tr2	Fr	c4	rab35			N	N					Flies	2.0	2.0	N
+rab36_Ac_Swab_Tr3	111604	2025-5-15	T1	2	1	rab36_Ac		31.7	64	GTCCGTCCTGGT	Swab	b2	Tr3	Ac	c4	rab36			Y	Y					Mixed	3.0	3.0	N
+rab36_Ac_Soil_Tr3	111603	2025-5-15	T1	2	1	rab36_Ac		31.7	64	AATAGATGCTGA	Soil	b2	Tr3	Ac	c4	rab36			Y	Y					Mixed	3.0	3.0	N
+rab36_Adv_Swab_Tr3	111599	2025-5-18	T2	3	2	rab36_Adv		27.2	64	TCGAGAGTTTGC	Swab	b2	Tr3	Adv	c4	rab36			Y	Y					Mixed	3.0	4.0	Y
+rab36_Adv_Soil_Tr3	111597	2025-5-18	T2	3	2	rab36_Adv		27.2	64	TATACCGCTGCG	Soil	b2	Tr3	Adv	c4	rab36			Y	Y					Mixed	3.0	4.0	Y
+rab36_Fr_Swab_Tr3	111595	2025-5-12	T0	1	1	rab36_Fr			65	ATTTGAAGAGGT	Swab	b2	Tr3	Fr	c4	rab36			Y	Y					Mixed	3.0	3.0	N
+rab37_Ac_Swab_Tr0	111032	2025-5-15	T1	2	1	rab37_Ac		31.7	64	CTCTGAGGTAAC	Swab	b2	Tr0	Ac	c5	rab37			Y	N					Flies	0.0	0.0	N
+rab37_Ac_Soil_Tr0	111030	2025-5-15	T1	2	1	rab37_Ac		31.7	64	AATTTCCTAACA	Soil	b2	Tr0	Ac	c5	rab37			Y	N					Flies	0.0	0.0	N
+rab37_Adv_Swab_Tr0	111027	2025-5-18	T2	2	2	rab37_Adv		27.2	64	CTAATCAGAGTG	Swab	b2	Tr0	Adv	c5	rab37			Y	N					Flies	0.0	2.0	Y
+rab37_Adv_Soil_Tr0	111025	2025-5-18	T2	2	2	rab37_Adv		27.2	64	AGTATATGTTTC	Soil	b2	Tr0	Adv	c5	rab37			Y	N					Flies	0.0	2.0	Y
+rab37_Fr_Swab_Tr0	111022	2025-5-12	T0	1	1	rab37_Fr			64	ACATGATATTCT	Swab	b2	Tr0	Fr	c5	rab37			Y	N					Flies	0.0	0.0	N
+rab38_Ac_Swab_Tr1	111227	2025-5-15	T1	2	2.5	rab38_Ac		31.7	64	TCTTATAACGCT	Swab	b2	Tr1	Ac	c5	rab38			Y	N					Beetles	1.0	1.0	N
+rab38_Ac_Soil_Tr1	111225	2025-5-15	T1	2	2.5	rab38_Ac		31.7	64	CTTACACTGCTT	Soil	b2	Tr1	Ac	c5	rab38			Y	N					Beetles	1.0	1.0	N
+rab38_Adv_Swab_Tr1	111222	2025-5-18	T2	3	3	rab38_Adv		27.2	64	AGTGTTTCGGAC	Swab	b2	Tr1	Adv	c5	rab38			Y	N					Beetles	1.0	3.0	Y
+rab38_Adv_Soil_Tr1	111220	2025-5-18	T2	3	3	rab38_Adv		27.2	64	TTCAGTTCGTTA	Soil	b2	Tr1	Adv	c5	rab38			Y	N					Beetles	1.0	3.0	Y
+rab38_Fr_Swab_Tr1	111218	2025-5-12	T0	1	1	rab38_Fr			65	GTGCGAGGACAA	Swab	b2	Tr1	Fr	c5	rab38			Y	N					Beetles	1.0	1.0	N
+rab39_Ac_Soil_Tr2	111420	2025-5-15	T1	2	1.5	rab39_Ac		31.7	64	TGATTTAATTGC	Soil	b2	Tr2	Ac	c5	rab39			N	Y					Mixed	2.0	2.0	N
+rab39_Ac_Swab_Tr2	111422	2025-5-15	T1	2	1.5	rab39_Ac		31.7	65	AAGCCTCTACGA	Swab	b2	Tr2	Ac	c5	rab39			N	Y					Mixed	2.0	2.0	N
+rab39_Adv_Swab_Tr2	111417	2025-5-18	T2	3	1.5	rab39_Adv		27.2	64	CCGATAAAGGTT	Swab	b2	Tr2	Adv	c5	rab39			N	Y					Mixed	2.0	2.0	N
+rab39_Adv_Soil_Tr2	111415	2025-5-18	T2	3	1.5	rab39_Adv		27.2	64	GTAAACGACTTG	Soil	b2	Tr2	Adv	c5	rab39			N	Y					Mixed	2.0	2.0	N
+rab4_Ac_Swab_Tr3	111500	2025-5-15	T1	2	2	rab4_Ac		31.7	64	CTACAGGGTCTC	Swab	b1	Tr3	Ac	c1	rab4			N	Y					Flies	3.0	3.0	N
+rab4_Ac_Soil_Tr3	111498	2025-5-15	T1	2	2	rab4_Ac		31.7	64	ACGTATTCGAAG	Soil	b1	Tr3	Ac	c1	rab4			N	Y					Flies	3.0	3.0	N
+rab4_Adv_Swab_Tr3	111495	2025-5-18	T2	3	3	rab4_Adv		27.2	64	GCATATGCACTG	Swab	b1	Tr3	Adv	c1	rab4			N	Y					Flies	3.0	3.0	N
+rab4_Adv_Soil_Tr3	111493	2025-5-18	T2	3	3	rab4_Adv		27.2	64	CTCAGCGGGACG	Soil	b1	Tr3	Adv	c1	rab4			N	Y					Flies	3.0	3.0	N
+rab40_Ac_Soil_Tr3	111615	2025-5-15	T1	2	1.5	rab40_Ac		31.7	64	GAACCGTGCAGG	Soil	b2	Tr3	Ac	c5	rab40			N	N					Mixed	3.0	3.0	N
+rab40_Adv_Swab_Tr3	111612	2025-5-18	T2	3		rab40_Adv		27.2	64	CACAACCACAAC	Swab	b2	Tr3	Adv	c5	rab40			N	N					Mixed	3.0	3.0	N
+rab40_Adv_Soil_Tr3	111610	2025-5-18	T2	3		rab40_Adv		27.2	64	CTTCCAACTCAT	Soil	b2	Tr3	Adv	c5	rab40			N	N					Mixed	3.0	3.0	N
+rab40_Fr_Swab_Tr3	111608	2025-5-12	T0	1	1	rab40_Fr			65	GTCAATTAGTGG	Swab	b2	Tr3	Fr	c5	rab40			N	N					Mixed	3.0	3.0	N
+rab41_Ac_Swab_Tr0	111045	2025-5-15	T1	2	1	rab41_Ac		31.7	64	GTTGGACGAAGG	Swab	b3	Tr0	Ac	c1	rab41			Y	Y						0.0	5.0	Y
+rab41_Ac_Soil_Tr0	111043	2025-5-15	T1	2	1	rab41_Ac		31.7	64	AGTATCATATAT	Soil	b3	Tr0	Ac	c1	rab41			Y	Y						0.0	5.0	Y
+rab41_Adv_Swab_Tr0	111040	2025-5-18	T2	3	3	rab41_Adv		27.2	64	GCGCGGCGTTGC	Swab	b3	Tr0	Adv	c1	rab41			Y	Y						0.0	5.0	Y
+rab41_Adv_Soil_Tr0	111038	2025-5-18	T2	3	3	rab41_Adv		27.2	64	GTTGAAGCACCT	Soil	b3	Tr0	Adv	c1	rab41			Y	Y						0.0	5.0	Y
+rab41_Fr_Swab_Tr0	111035	2025-5-12	T0	1	1	rab41_Fr			65	CTAGTCGCTGGT	Swab	b3	Tr0	Fr	c1	rab41			Y	Y						0.0	0.0	N
+rab42_Ac_Swab_Tr1	111240	2025-5-15	T1	2		rab42_Ac		31.7	64	ACCTACTTGTCT	Swab	b3	Tr1	Ac	c1	rab42			N	Y					Flies	1.0	1.0	N
+rab42_Ac_Soil_Tr1	111238	2025-5-15	T1	2		rab42_Ac		31.7	64	ATGTAGGCTTAG	Soil	b3	Tr1	Ac	c1	rab42			N	Y					Flies	1.0	1.0	N
+rab42_Adv_Swab_Tr1	111235	2025-5-18	T2	3	2	rab42_Adv		27.2	64	GTGTCGAGGGCA	Swab	b3	Tr1	Adv	c1	rab42			N	Y					Flies	1.0	1.0	N
+rab42_Adv_Soil_Tr1	111233	2025-5-18	T2	3	2	rab42_Adv		27.2	64	ATCAAGATACGC	Soil	b3	Tr1	Adv	c1	rab42			N	Y					Flies	1.0	1.0	N
+rab42_Fr_Swab_Tr1	111230	2025-5-12	T0	1	1	rab42_Fr			64	GAGCCATCTGTA	Swab	b3	Tr1	Fr	c1	rab42			N	Y					Flies	1.0	1.0	N
+rab43_Ac_Soil_Tr2	111433	2025-5-15	T1	2	1	rab43_Ac		31.7	64	CTGAGGCCCTTC	Soil	b3	Tr2	Ac	c1	rab43			N	N					Flies	2.0	2.0	N
+rab43_Ac_Swab_Tr2	111435	2025-5-15	T1	2	1	rab43_Ac		31.7	65	TGTTGCGTTTCT	Swab	b3	Tr2	Ac	c1	rab43			N	N					Flies	2.0	2.0	N
+rab43_Adv_Soil_Tr2	111428	2025-5-18	T2	3	1	rab43_Adv		27.2	64	TCTTCGCAGCAG	Soil	b3	Tr2	Adv	c1	rab43			N	N					Flies	2.0	2.0	N
+rab43_Fr_Swab_Tr2	111425	2025-5-12	T0	1	1	rab43_Fr			64	AACCGCATAAGT	Swab	b3	Tr2	Fr	c1	rab43			N	N					Flies	2.0	2.0	N
+rab44_Ac_Swab_Tr3	111630	2025-5-15	T1	2		rab44_Ac		31.7	64	TTAAGTTAAGTT	Swab	b3	Tr3	Ac	c1	rab44			N	Y					Flies	3.0	3.0	N
+rab44_Ac_Soil_Tr3	111628	2025-5-15	T1	2		rab44_Ac		31.7	64	CTTAGGCATGTG	Soil	b3	Tr3	Ac	c1	rab44			N	Y					Flies	3.0	3.0	N
+rab44_Adv_Swab_Tr3	111625	2025-5-18	T2	3	2.5	rab44_Adv		27.2	64	CTAGCGTGCGTT	Swab	b3	Tr3	Adv	c1	rab44			N	Y					Flies	3.0	4.0	Y
+rab44_Adv_Soil_Tr3	111623	2025-5-18	T2	3	2.5	rab44_Adv		27.2	64	GTGCGGTTCACT	Soil	b3	Tr3	Adv	c1	rab44			N	Y					Flies	3.0	4.0	Y
+rab44_Fr_Swab_Tr3	111620	2025-5-12	T0	1	1	rab44_Fr			64	AACCACTAACCG	Swab	b3	Tr3	Fr	c1	rab44			N	Y					Flies	3.0	3.0	N
+rab45_Ac_Soil_Tr0	111056	2025-5-15	T1	2	1	rab45_Ac		31.7	64	GCGGTCGGTCAG	Soil	b3	Tr0	Ac	c2	rab45			Y	N						0.0	4.0	Y
+rab45_Ac_Swab_Tr0	111058	2025-5-15	T1	2	1	rab45_Ac		31.7	65	GCAAGAATACAT	Swab	b3	Tr0	Ac	c2	rab45			Y	N						0.0	4.0	Y
+rab45_Adv_Soil_Tr0	111051	2025-5-18	T2	2.5	1	rab45_Adv		27.2	64	CACGAAAGCAGG	Soil	b3	Tr0	Adv	c2	rab45			Y	N						0.0	5.0	Y
+rab45_Adv_Swab_Tr0	111053	2025-5-18	T2	3	1	rab45_Adv		27.2	65	GCGATGGCGATG	Swab	b3	Tr0	Adv	c2	rab45			Y	N						0.0	5.0	Y
+rab45_Fr_Swab_Tr0	111048	2025-5-12	T0	1	1	rab45_Fr			64	TCTTGCGGAGTC	Swab	b3	Tr0	Fr	c2	rab45			Y	N						0.0	0.0	N
+rab46_Ac_Swab_Tr1	111253	2025-5-15	T1	2		rab46_Ac		31.7	64	AATGTTCAACTT	Swab	b3	Tr1	Ac	c2	rab46			Y	Y					Flies	1.0	2.0	Y
+rab46_Ac_Soil_Tr1	111251	2025-5-15	T1	2		rab46_Ac		31.7	64	GGCGTAACGGCA	Soil	b3	Tr1	Ac	c2	rab46			Y	Y					Flies	1.0	2.0	Y
+rab46_Adv_Swab_Tr1	111248	2025-5-18	T2	3	2	rab46_Adv		27.2	64	AGACTTCTCAGG	Swab	b3	Tr1	Adv	c2	rab46			Y	Y					Flies	1.0	4.0	Y
+rab46_Adv_Soil_Tr1	111246	2025-5-18	T2	3	2	rab46_Adv		27.2	64	AGGGTGACTTTA	Soil	b3	Tr1	Adv	c2	rab46			Y	Y					Flies	1.0	4.0	Y
+rab46_Fr_Swab_Tr1	111243	2025-5-12	T0	1	1	rab46_Fr			64	ATATGTTCTCAA	Swab	b3	Tr1	Fr	c2	rab46			Y	Y					Flies	1.0	1.0	N
+rab47_Ac_Swab_Tr2	111448	2025-5-15	T1	2		rab47_Ac		31.7	64	TCGTTGGGACTA	Swab	b3	Tr2	Ac	c2	rab47			N	Y					Flies	2.0	2.0	N
+rab47_Ac_Soil_Tr2	111446	2025-5-15	T1	2		rab47_Ac		31.7	64	TCCGGACTCCTG	Soil	b3	Tr2	Ac	c2	rab47			N	Y					Flies	2.0	2.0	N
+rab47_Adv_Soil_Tr2	111441	2025-5-18	T2	3	2	rab47_Adv		27.2	64	TTACTTATCCGA	Soil	b3	Tr2	Adv	c2	rab47			N	Y					Flies	2.0	2.0	N
+rab47_Adv_Swab_Tr2	111444	2025-5-18	T2	3	2	rab47_Adv		27.2	65	GAGCGCCGAACA	Swab	b3	Tr2	Adv	c2	rab47			N	Y					Flies	2.0	2.0	N
+rab47_Fr_Swab_Tr2	111439	2025-5-12	T0	1	1	rab47_Fr			65	CTCTATTCCACC	Swab	b3	Tr2	Fr	c2	rab47			N	Y					Flies	2.0	2.0	N
+rab48_Ac_Soil_Tr3	111641	2025-5-15	T1	2		rab48_Ac		31.7	64	GATCTAATCGAG	Soil	b3	Tr3	Ac	c2	rab48			Y	Y					Flies	3.0	4.0	Y
+rab48_Ac_Swab_Tr3	111643	2025-5-15	T1	2		rab48_Ac		31.7	65	GCTATATCCAGG	Swab	b3	Tr3	Ac	c2	rab48			Y	Y					Flies	3.0	4.0	Y
+rab48_Adv_Soil_Tr3	111636	2025-5-18	T2	3	1.5	rab48_Adv		27.2	64	GCGAGGAAGTCC	Soil	b3	Tr3	Adv	c2	rab48			Y	Y					Flies	3.0	5.0	Y
+rab48_Fr_Swab_Tr3	111633	2025-5-12	T0	1	1	rab48_Fr			65	TGAAAGCGGCGA	Swab	b3	Tr3	Fr	c2	rab48			Y	Y					Flies	3.0	3.0	N
+rab49_Ac_Swab_Tr0	111071	2025-5-15	T1	2	1	rab49_Ac		31.7	64	TCGAGCCGATCT	Swab	b3	Tr0	Ac	c3	rab49			N	N						0.0	1.0	Y
+rab49_Ac_Soil_Tr0	111069	2025-5-15	T1	2	1	rab49_Ac		31.7	64	GGTGCAGACAGA	Soil	b3	Tr0	Ac	c3	rab49			N	N						0.0	1.0	Y
+rab49_Adv_Swab_Tr0	111066	2025-5-18	T2	3	2.5	rab49_Adv		27.2	64	AGATTCGCTCGA	Swab	b3	Tr0	Adv	c3	rab49			N	N						0.0	1.0	Y
+rab49_Adv_Soil_Tr0	111064	2025-5-18	T2	3	2.5	rab49_Adv		27.2	64	TGGTGTTTATAT	Soil	b3	Tr0	Adv	c3	rab49			N	N						0.0	1.0	Y
+rab49_Fr_Swab_Tr0	111061	2025-5-12	T0	1	1	rab49_Fr			65	CACAATACACCG	Swab	b3	Tr0	Fr	c3	rab49			N	N						0.0	0.0	N
+rab5_Ac_Swab_Tr0	110928	2025-5-15	T1	2	1	rab5_Ac		31.7	64	TGGCAGCGAGCC	Swab	b1	Tr0	Ac	c2	rab5			Y	Y						0.0	1.0	Y
+rab5_Ac_Soil_Tr0	110926	2025-5-15	T1	2	1	rab5_Ac		31.7	64	CAGTGCACGTCT	Soil	b1	Tr0	Ac	c2	rab5			Y	Y						0.0	1.0	Y
+rab5_Adv_Swab_Tr0	110923	2025-5-18	T2	3	3	rab5_Adv		27.2	64	AACTCAATAGCG	Swab	b1	Tr0	Adv	c2	rab5			Y	Y						0.0	2.0	Y
+rab5_Adv_Soil_Tr0	110921_2	2025-5-18	T2		3	rab5_Adv		27.2	65	ATGGATAGCTAA	Soil	b1	Tr0	Adv	c2	rab5			Y	Y						0.0	2.0	Y
+rab50_Ac_Swab_Tr1	111266	2025-5-15	T1	2	2	rab50_Ac		31.7	64	TTGAACAAGCCA	Swab	b3	Tr1	Ac	c3	rab50			Y	N					Flies	1.0	1.0	N
+rab50_Ac_Soil_Tr1	111264	2025-5-15	T1	2	2	rab50_Ac		31.7	64	GATGCCTAATGA	Soil	b3	Tr1	Ac	c3	rab50			Y	N					Flies	1.0	1.0	N
+rab50_Adv_Soil_Tr1	111259	2025-5-18	T2	3	2.5	rab50_Adv		27.2	64	AGGACAAACTAT	Soil	b3	Tr1	Adv	c3	rab50			Y	N					Flies	1.0	1.0	N
+rab50_Adv_Swab_Tr1	111262	2025-5-18	T2	3	2.5	rab50_Adv		27.2	65	CTTGAGAAATCG	Swab	b3	Tr1	Adv	c3	rab50			Y	N					Flies	1.0	1.0	N
+rab50_Fr_Swab_Tr1	111256	2025-5-12	T0	1	1	rab50_Fr			64	AATTAATATGTA	Swab	b3	Tr1	Fr	c3	rab50			Y	N					Flies	1.0	1.0	N
+rab51_Ac_Swab_Tr2	111461	2025-5-15	T1	2	2.5	rab51_Ac		31.7	64	CTTGGAGGCTTA	Swab	b3	Tr2	Ac	c3	rab51			N	Y					Flies	2.0	4.0	Y
+rab51_Ac_Soil_Tr2	111459	2025-5-15	T1	2	2.5	rab51_Ac		31.7	64	CGGTCAATTGAC	Soil	b3	Tr2	Ac	c3	rab51			N	Y					Flies	2.0	4.0	Y
+rab51_Adv_Swab_Tr2	111456	2025-5-18	T2	3	3	rab51_Adv		27.2	64	TTCGATGCCGCA	Swab	b3	Tr2	Adv	c3	rab51			N	Y					Flies	2.0	4.0	Y
+rab51_Adv_Soil_Tr2	111454	2025-5-18	T2	3	3	rab51_Adv		27.2	64	CGACCTCGCATA	Soil	b3	Tr2	Adv	c3	rab51			N	Y					Flies	2.0	4.0	Y
+rab51_Fr_Swab_Tr2	111451	2025-5-12	T0	1	1	rab51_Fr			64	TAGTCTAAGGGT	Swab	b3	Tr2	Fr	c3	rab51			N	Y					Flies	2.0	2.0	N
+rab52_Ac_Swab_Tr3	111656	2025-5-15	T1	2	2	rab52_Ac		31.7	64	AGCGCGGCGAAT	Swab	b3	Tr3	Ac	c3	rab52			Y	N					Flies	3.0	3.0	N
+rab52_Ac_Soil_Tr3	111654	2025-5-15	T1	2	2	rab52_Ac		31.7	64	GACATCTGACAC	Soil	b3	Tr3	Ac	c3	rab52			Y	N					Flies	3.0	3.0	N
+rab52_Adv_Soil_Tr3	111649	2025-5-18	T2	3	3	rab52_Adv		27.2	64	GTACGTCACTGA	Soil	b3	Tr3	Adv	c3	rab52			Y	N					Flies	3.0	4.0	Y
+rab52_Adv_Swab_Tr3	111651	2025-5-18	T2	3	3	rab52_Adv		27.2	65	GTTCGGTGTCCA	Swab	b3	Tr3	Adv	c3	rab52			Y	N					Flies	3.0	4.0	Y
+rab52_Fr_Swab_Tr3	111646	2025-5-12	T0	1	1	rab52_Fr			64	CCACGAGCAGGC	Swab	b3	Tr3	Fr	c3	rab52			Y	N					Flies	3.0	3.0	N
+rab53_Ac_Swab_Tr0	111084	2025-5-15	T1	2	1.5	rab53_Ac		31.7	64	GTTGCTGAGTCC	Swab	b3	Tr0	Ac	c4	rab53			Y	N						0.0	2.0	Y
+rab53_Ac_Soil_Tr0	111082	2025-5-15	T1	2	1.5	rab53_Ac		31.7	64	ACTCACAGGAAT	Soil	b3	Tr0	Ac	c4	rab53			Y	N						0.0	2.0	Y
+rab53_Adv_Swab_Tr0	111079	2025-5-18	T2	3	3	rab53_Adv		27.2	64	TCCGGCGGGCAA	Swab	b3	Tr0	Adv	c4	rab53			Y	N						0.0	3.0	Y
+rab53_Adv_Soil_Tr0	111077	2025-5-18	T2	3	3	rab53_Adv		27.2	64	GTTAGGGAGCGA	Soil	b3	Tr0	Adv	c4	rab53			Y	N						0.0	3.0	Y
+rab53_Fr_Swab_Tr0	111074	2025-5-12	T0	1	1	rab53_Fr			64	ATAATTGCCGAG	Swab	b3	Tr0	Fr	c4	rab53			Y	N						0.0	0.0	N
+rab54_Ac_Swab_Tr1	111279	2025-5-15	T1	2		rab54_Ac		31.7	64	GGATACTCGCAT	Swab	b3	Tr1	Ac	c4	rab54			Y	N					Beetles	1.0	2.0	Y
+rab54_Ac_Soil_Tr1	111277	2025-5-15	T1	2		rab54_Ac		31.7	64	TATGGGTAGCTA	Soil	b3	Tr1	Ac	c4	rab54			Y	N					Beetles	1.0	2.0	Y
+rab54_Adv_Swab_Tr1	111274	2025-5-18	T2	2.5	2.5	rab54_Adv		27.2	64	TATCATATTACG	Swab	b3	Tr1	Adv	c4	rab54			Y	N					Beetles	1.0	3.0	Y
+rab54_Adv_Soil_Tr1	111272	2025-5-18	T2	2.5	2.5	rab54_Adv		27.2	64	TTGGACGTCCAC	Soil	b3	Tr1	Adv	c4	rab54			Y	N					Beetles	1.0	3.0	Y
+rab54_Fr_Swab_Tr1	111269	2025-5-12	T0	1	1	rab54_Fr			64	CAATGTAGACAC	Swab	b3	Tr1	Fr	c4	rab54			Y	N					Beetles	1.0	1.0	N
+rab55_Ac_Swab_Tr2	111474	2025-5-15	T1	2	1	rab55_Ac		31.7	64	TCATGGCCTCCG	Swab	b3	Tr2	Ac	c4	rab55			N	N					Mixed	2.0	2.0	N
+rab55_Ac_Soil_Tr2	111472	2025-5-15	T1	2	1	rab55_Ac		31.7	64	ACTAGTTGGACC	Soil	b3	Tr2	Ac	c4	rab55			N	N					Mixed	2.0	2.0	N
+rab55_Adv_Swab_Tr2	111469	2025-5-18	T2	2.5	2	rab55_Adv		27.2	64	GATATACCAGTG	Swab	b3	Tr2	Adv	c4	rab55			N	N					Mixed	2.0	2.0	N
+rab55_Adv_Soil_Tr2	111467	2025-5-18	T2	2.5	2	rab55_Adv		27.2	64	AATAAGCAATAG	Soil	b3	Tr2	Adv	c4	rab55			N	N					Mixed	2.0	2.0	N
+rab55_Fr_Swab_Tr2	111465	2025-5-12	T0	1	1	rab55_Fr			65	ATGTATCAATTA	Swab	b3	Tr2	Fr	c4	rab55			N	N					Mixed	2.0	2.0	N
+rab56_Ac_Swab_Tr3	111669	2025-5-15	T1	2	1	rab56_Ac		31.7	64	GTGCCGGCCGAC	Swab	b3	Tr3	Ac	c4	rab56			N	Y					Mixed	3.0	5.0	Y
+rab56_Ac_Soil_Tr3	111667	2025-5-15	T1	2	1	rab56_Ac		31.7	64	CCTCGCATGACC	Soil	b3	Tr3	Ac	c4	rab56			N	Y					Mixed	3.0	5.0	Y
+rab56_Adv_Swab_Tr3	111664	2025-5-18	T2	3	1.5	rab56_Adv		27.2	64	ACCGAACAATCC	Swab	b3	Tr3	Adv	c4	rab56			N	Y					Mixed	3.0	5.0	Y
+rab56_Adv_Soil_Tr3	111662	2025-5-18	T2	3	1.5	rab56_Adv		27.2	64	GGCTCGTCGGAG	Soil	b3	Tr3	Adv	c4	rab56			N	Y					Mixed	3.0	5.0	Y
+rab56_Fr_Swab_Tr3	111659	2025-5-12	T0	1	1	rab56_Fr			64	CCGGCGACAGAA	Swab	b3	Tr3	Fr	c4	rab56			N	Y					Mixed	3.0	3.0	N
+rab57_Ac_Swab_Tr0	111097	2025-5-15	T1	2	1	rab57_Ac		31.7	64	GTACTCGAACCA	Swab	b3	Tr0	Ac	c5	rab57			Y	Y						0.0	0.0	N
+rab57_Ac_Soil_Tr0	111095	2025-5-15	T1	2	1	rab57_Ac		31.7	64	CTTGTGCGACAA	Soil	b3	Tr0	Ac	c5	rab57			Y	Y						0.0	0.0	N
+rab57_Adv_Swab_Tr0	111092	2025-5-18	T2	3	2	rab57_Adv		27.2	64	TCGTTATTCAGT	Swab	b3	Tr0	Adv	c5	rab57			Y	Y						0.0	0.0	N
+rab57_Adv_Soil_Tr0	111090	2025-5-18	T2	3	2	rab57_Adv		27.2	64	CTCCCACTAGAG	Soil	b3	Tr0	Adv	c5	rab57			Y	Y						0.0	0.0	N
+rab57_Fr_Swab_Tr0	111087	2025-5-12	T0	1	1	rab57_Fr			64	TCCACAGGGTTC	Swab	b3	Tr0	Fr	c5	rab57			Y	Y						0.0	0.0	N
+rab58_Ac_Soil_Tr1	111290	2025-5-15	T1	2	1	rab58_Ac		31.7	64	GTCGTTACCCGC	Soil	b3	Tr1	Ac	c5	rab58			Y	Y					Beetles	1.0	2.0	Y
+rab58_Ac_Swab_Tr1	111292	2025-5-15	T1	2	1	rab58_Ac		31.7	65	AGAAGGCCTTAT	Swab	b3	Tr1	Ac	c5	rab58			Y	Y					Beetles	1.0	2.0	Y
+rab58_Adv_Swab_Tr1	111287	2025-5-18	T2	3	1.5	rab58_Adv		27.2	64	ATTATGATTATG	Swab	b3	Tr1	Adv	c5	rab58			Y	Y					Beetles	1.0	2.0	Y
+rab58_Adv_Soil_Tr1	111285	2025-5-18	T2	3	1.5	rab58_Adv		27.2	64	AGTACGCAGTCT	Soil	b3	Tr1	Adv	c5	rab58			Y	Y					Beetles	1.0	2.0	Y
+rab58_Fr_Swab_Tr1	111282	2025-5-12	T0	1	1	rab58_Fr			64	GTCAGGTGCGGC	Swab	b3	Tr1	Fr	c5	rab58			Y	Y					Beetles	1.0	1.0	N
+rab59_Ac_Swab_Tr2	111487	2025-5-15	T1	2	2	rab59_Ac		31.7	64	GGAGAACGACAC	Swab	b3	Tr2	Ac	c5	rab59			N	N					Mixed	2.0	2.0	N
+rab59_Ac_Soil_Tr2	111485	2025-5-15	T1	2	2	rab59_Ac		31.7	64	GATCCGGCAGGA	Soil	b3	Tr2	Ac	c5	rab59			N	N					Mixed	2.0	2.0	N
+rab59_Adv_Soil_Tr2	111480	2025-5-18	T2	3	1.5	rab59_Adv		27.2	64	CTCCACATTCCT	Soil	b3	Tr2	Adv	c5	rab59			N	N					Mixed	2.0	2.0	N
+rab59_Adv_Swab_Tr2	111483	2025-5-18	T2	3	1.5	rab59_Adv		27.2	65	CGCAGATTAGTA	Swab	b3	Tr2	Adv	c5	rab59			N	N					Mixed	2.0	2.0	N
+rab59_Fr_Swab_Tr2	111477	2025-5-12	T0	1	1	rab59_Fr			64	CACACAAAGTCA	Swab	b3	Tr2	Fr	c5	rab59			N	N					Mixed	2.0	2.0	N
+rab6_Ac_Soil_Tr1	111121	2025-5-15	T1	2	3	rab6_Ac		31.7	64	AAGGCGCTCCTT	Soil	b1	Tr1	Ac	c2	rab6			N	Y					Flies	1.0	1.0	N
+rab6_Ac_Swab_Tr1	111123	2025-5-15	T1	2	3	rab6_Ac		31.7	65	ATTTGCTTTGCC	Swab	b1	Tr1	Ac	c2	rab6			N	Y					Flies	1.0	1.0	N
+rab6_Adv_Swab_Tr1	111118	2025-5-18	T2	3	3	rab6_Adv		27.2	64	ATGTGCTGCTCG	Swab	b1	Tr1	Adv	c2	rab6			N	Y					Flies	1.0	1.0	N
+rab6_Adv_Soil_Tr1	111116	2025-5-18	T2	3	3	rab6_Adv		27.2	64	GTTGTTCTGGGA	Soil	b1	Tr1	Adv	c2	rab6			N	Y					Flies	1.0	1.0	N
+rab60_Ac_Swab_Tr3	111682	2025-5-15	T1	2	3	rab60_Ac		31.7	64	TAGCAGTTGCGT	Swab	b3	Tr3	Ac	c5	rab60			N	N					Mixed	3.0	3.0	N
+rab60_Ac_Soil_Tr3	111680	2025-5-15	T1	2	3	rab60_Ac		31.7	64	GCGTGGTCATTA	Soil	b3	Tr3	Ac	c5	rab60			N	N					Mixed	3.0	3.0	N
+rab60_Adv_Soil_Tr3	111675	2025-5-18	T2	3	3	rab60_Adv		27.2	64	TCTTCCTAAAGT	Soil	b3	Tr3	Adv	c5	rab60			N	N					Mixed	3.0	3.0	N
+rab60_Adv_Swab_Tr3	111677	2025-5-18	T2	3	3	rab60_Adv		27.2	65	AATATCGGGATC	Swab	b3	Tr3	Adv	c5	rab60			N	N					Mixed	3.0	3.0	N
+rab60_Fr_Swab_Tr3	111672	2025-5-12	T0	1	1	rab60_Fr			64	AGTGCAGGAGCC	Swab	b3	Tr3	Fr	c5	rab60			N	N					Mixed	3.0	3.0	N
+rab7_Ac_Swab_Tr2	111318	2025-5-15	T1	2	3	rab7_Ac		31.7	64	ACTGTGACGTCC	Swab	b1	Tr2	Ac	c2	rab7			N	Y					Flies	2.0	2.0	N
+rab7_Ac_Soil_Tr2	111316	2025-5-15	T1	2	3	rab7_Ac		31.7	64	CGCGCAAGTATT	Soil	b1	Tr2	Ac	c2	rab7			N	Y					Flies	2.0	2.0	N
+rab7_Adv_Swab_Tr2	111313	2025-5-18	T2		3	rab7_Adv		27.2	64	TTCCACACGTGG	Swab	b1	Tr2	Adv	c2	rab7			N	Y					Flies	2.0	2.0	N
+rab7_Adv_Soil_Tr2	111311	2025-5-18	T2		3	rab7_Adv		27.2	64	TCATCCGTCGGC	Soil	b1	Tr2	Adv	c2	rab7			N	Y					Flies	2.0	2.0	N
+rab8_Ac_Soil_Tr3	111511	2025-5-15	T1	2	3	rab8_Ac		31.7	64	TCAGTCAGATGA	Soil	b1	Tr3	Ac	c2	rab8			Y	N					Flies	3.0	3.0	N
+rab8_Ac_Swab_Tr3	111514	2025-5-15	T1	2	1.5	rab8_Ac		31.7	65	CGCGGCGCAGCT	Swab	b1	Tr3	Ac	c2	rab8			Y	N					Flies	3.0	3.0	N
+rab8_Adv_Soil_Tr3	111506	2025-5-18	T2		3	rab8_Adv		27.2	64	GCAAAGGCCCGC	Soil	b1	Tr3	Adv	c2	rab8			Y	N					Flies	3.0	6.0	Y
+rab8_Adv_Swab_Tr3	111509	2025-5-18	T2		1.5	rab8_Adv		27.2	65	CGCTGGCTTTAG	Swab	b1	Tr3	Adv	c2	rab8			Y	N					Flies	3.0	6.0	Y
+rab9_Ac_Swab_Tr0	110941	2025-5-15	T1	2	3	rab9_Ac		31.7	64	AACAGTAAACAA	Swab	b1	Tr0	Ac	c3	rab9			Y	Y						0.0	0.0	N
+rab9_Ac_Soil_Tr0	110939	2025-5-15	T1	2	3	rab9_Ac		31.7	64	ATATTGGCAGCC	Soil	b1	Tr0	Ac	c3	rab9			Y	Y						0.0	0.0	N
+rab9_Adv_Soil_Tr0	110934	2025-5-18	T2		1.5	rab9_Adv		27.2	64	GCATTACTGGAC	Soil	b1	Tr0	Adv	c3	rab9			Y	Y						0.0	1.0	Y
+rab9_Adv_Swab_Tr0	110937	2025-5-18	T2		2.5	rab9_Adv		27.2	65	TACTTAAACATC	Swab	b1	Tr0	Adv	c3	rab9			Y	Y						0.0	1.0	Y
+PC2_4_SR64	PC2_4_SR64								64	CACCATCTCCGG																		
+PC2_3_SR64	PC2_3_SR64								64	ACATAGCGGTTC																		
+PC2_2_SR64	PC2_2_SR64								64	TGAGTCATTGAG																		
+PC2_1_SR64	PC2_1_SR64								64	GAAATCTTGAAG																		
+PC1_4_SR64	PC1_4_SR64								64	AATACAGACCTG																		
+PC1_3_SR64	PC1_3_SR64								64	GCGCACACCTTC																		
+PC1_2_SR64	PC1_2_SR64								64	TCAGACCAACTG																		
+PC1_1_SR64	PC1_1_SR64								64	TACTAACGCGGT																		
+EC6_3_SR64	EC6_3_SR64								64	GCGCTTAGAATA																		
+EC6_2_SR64	EC6_2_SR64								64	TAATCCATAATC																		
+EC6_1_SR64	EC6_1_SR64								64	TAATCGGTGCCA																		
+EC5_4_SR64	EC5_4_SR64								64	GTCGCTTGCACA																		
+EC5_3_SR64	EC5_3_SR64								64	GCACGCGAGCAC																		
+EC5_2_SR64	EC5_2_SR64								64	CGAGGCGAGTCA																		
+EC5_1_SR64	EC5_1_SR64								64	TATCCAAGCGCA																		
+EC4_4_SR64	EC4_4_SR64								64	CCGGCTTATGTG																		
+EC4_3_SR64	EC4_3_SR64								64	TATCCTGGTTTC																		
+EC4_2_SR64	EC4_2_SR64								64	CATTTCGCACTT																		
+EC2_4_SR64	EC2_4_SR64								64	ATGCCTCGTAAG																		
+EC1_1_SR64	EC1_1_SR64								64	TGTGCACGCCAT																		
+insect_32_WholeSpecimen	insect_32	5-14-2025							64	TCCATACCGGAA	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_33_WholeSpecimen	insect_33	5-14-2025							64	AGCCCTGCTACA	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_35_WholeSpecimen	insect_35	5-14-2025							64	CGCGCCTTAAAC	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_36_WholeSpecimen	insect_36	5-14-2025							64	TATGGTACCCAG	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_37_WholeSpecimen	insect_37	5-14-2025							64	TACAATATCTGT	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_38_WholeSpecimen	insect_38	5-14-2025							64	AATTTAGGTAGG	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_39_WholeSpecimen	insect_39	5-14-2025							64	GACTCAACCAGT	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_40_WholeSpecimen	insect_40	5-14-2025							64	GCCTCTACGTCG	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_41_WholeSpecimen	insect_41	5-14-2025							64	ACTACTGAGGAT	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_42_WholeSpecimen	insect_42	5-14-2025							64	AATTCACCTCCT	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_44_WholeSpecimen	insect_44	5-14-2025							64	ATGCTGCAACAC	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_45_WholeSpecimen	insect_45	5-14-2025							64	TTCCTTAGTAGT	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_47_WholeSpecimen	insect_47	5-14-2025							64	ACGTGAGGAACG	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_48_WholeSpecimen	insect_48	5-14-2025							64	GGTTGCCCTGTA	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_49_WholeSpecimen	insect_49	5-14-2025							64	CATATAGCCCGA	Insect										Chrysomya rufifacies	Endogenous	WholeSpecimen					
+insect_51_WholeSpecimen	insect_51	5-14-2025							64	CAAGTGAAGGGA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_52_WholeSpecimen	insect_52	5-14-2025							64	CACGTTTATTCC	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_53_WholeSpecimen	insect_53	5-14-2025							64	TGACTAATGGCC	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_54_WholeSpecimen	insect_54	5-14-2025							64	CGGGACACCCGA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_55_WholeSpecimen	insect_55	5-14-2025							64	CTGTCTATACTA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_56_WholeSpecimen	insect_56	5-14-2025							64	TATGCCAGAGAT	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_57_WholeSpecimen	insect_57	5-14-2025							64	CGTTTGGAATGA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_58_WholeSpecimen	insect_58	5-14-2025							64	AAGAACTCATGA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_59_WholeSpecimen	insect_59	5-14-2025							64	TGATATCGTCTT	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_60_WholeSpecimen	insect_60	5-14-2025							64	CGGTGACCTACT	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_61_WholeSpecimen	insect_61	5-14-2025							64	AATGCGCGTATA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_62_WholeSpecimen	insect_62	5-14-2025							64	CTTGATTCTTGA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_63_WholeSpecimen	insect_63	5-14-2025							64	GAGATACAGTTC	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_64_WholeSpecimen	insect_64	5-14-2025							64	GTGGAGTCTCAT	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_65_WholeSpecimen	insect_65	5-14-2025							64	ACCTTACACCTT	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_66_WholeSpecimen	insect_66	5-14-2025							64	TAATCTCGCCGG	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_67_WholeSpecimen	insect_67	5-14-2025							64	ATCTAGTGGCAA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_68_WholeSpecimen	insect_68	5-14-2025							64	ACGCTTAACGAC	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_69_WholeSpecimen	insect_69	5-14-2025							64	TACGGATTATGG	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_70_WholeSpecimen	insect_70	5-14-2025							64	ATACATGCAAGA	Insect										Cochliomyia macellaria	Endogenous	WholeSpecimen					
+insect_71_WholeSpecimen	insect_71	5-14-2025							64	CTTAGTGCAGAA	Insect										Hydrotea aenescens	Endogenous	WholeSpecimen					
+insect_72_WholeSpecimen	insect_72	5-14-2025							64	AGGATCAGGGAA	Insect										Hydrotea aenescens	Endogenous	WholeSpecimen					
+insect_73_WholeSpecimen	insect_73	5-14-2025							64	AATAACTAGGGT	Insect										Hydrotea aenescens	Endogenous	WholeSpecimen					
+insect_74_WholeSpecimen	insect_74	5-14-2025							64	TATTGCAGCAGC	Insect										Chrysomya megacephala	Endogenous	WholeSpecimen					
+insect_75_WholeSpecimen	insect_75	5-14-2025							64	TGATGTGCTAAG	Insect										Chrysomya megacephala	Endogenous	WholeSpecimen					
+insect_76_WholeSpecimen	insect_76	5-14-2025							64	GTAGTAGACCAT	Insect										Chrysomya megacephala	Endogenous	WholeSpecimen					
+insect_77_WholeSpecimen	insect_77	5-14-2025							64	AGTAAAGATCGT	Insect										Chrysomya megacephala	Endogenous	WholeSpecimen					
+insect_78_WholeSpecimen	insect_78	5-14-2025							64	CTCGCCCTCGCC	Insect										Chrysomya megacephala	Endogenous	WholeSpecimen					
+insect_79_WholeSpecimen	insect_79	5-14-2025							64	TCTCTTTCGACA	Insect										Chrysomya megacephala	Endogenous	WholeSpecimen					
+insect_80_WholeSpecimen	insect_80	5-14-2025							64	ACATACTGAGCA	Insect										Lucilia coeruleiviridis	Endogenous	WholeSpecimen					
+insect_81_WholeSpecimen	insect_81	5-14-2025							64	GTTGATACGATG	Insect										Lucilia coeruleiviridis	Endogenous	WholeSpecimen					
+insect_83_WholeSpecimen	insect_83	5-14-2025							64	TGAGACCCTACA	Insect										Lucilia coeruleiviridis	Endogenous	WholeSpecimen					
+insect_84_WholeSpecimen	insect_84	5-14-2025							64	ACTTGGTGTAAG	Insect										Lucilia coeruleiviridis	Endogenous	WholeSpecimen					
+insect_85_WholeSpecimen	insect_85	5-14-2025							64	ATTACGTATCAT	Insect										Lucilia coeruleiviridis	Endogenous	WholeSpecimen					
+insect_86_WholeSpecimen	insect_86	5-14-2025							64	CACGCAGTCTAC	Insect										Phoridae sp.	Endogenous	WholeSpecimen					
+PC2_6_SR65	PC2_6_SR65								65	CTCATATGCTAT																		
+PC2_2_SR65	PC2_2_SR65								65	AGCGGTAGCGGT																		
+PC1_6_SR65	PC1_6_SR65								65	GGTAATAGAGTT																		
+PC1_2_SR65	PC1_2_SR65								65	ACTGGCAAACCT																		
+EC6_6_SR65	EC6_6_SR65								65	AGCCCGCAAAGG																		
+EC5_6_SR65	EC5_6_SR65								65	ACGGCCCTGGAG																		
+EC5_2_SR65	EC5_2_SR65								65	TCTGGCTACGAC																		
+EC4_6_SR65	EC4_6_SR65								65	GTTGACCATCGC																		
+EC4_2_SR65	EC4_2_SR65								65	TGGCGCACGGAC																		
+EC2_2_SR65	EC2_2_SR65								65	CGTTCGCTAGCC																		
+insect_100_Abdomen	insect_100	5-15-2025							65	GTTTGGCCACAC	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_100_HeadThorax	insect_100_h	5-21-2025							65	CGCTAGGATGTT	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_100_Wash	insect_100_w	5-21-2025							65	AGACTATTTCAT	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_125_Abdomen	insect_125	5-15-2025							65	GTCCTACACAGC	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_125_HeadThorax	insect_125_h	5-21-2025							65	ACAGTTGTACGC	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_125_Wash	insect_125_w	5-21-2025							65	AGCGATTCCTCG	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_126_Abdomen	insect_126	5-15-2025							65	ATTTACAATTGA	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_126_HeadThorax	insect_126_h	5-21-2025							65	GTCAGTATGGCT	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_126_Wash	insect_126_w	5-21-2025							65	ACCACCGTAACC	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_127_Abdomen	insect_127	5-15-2025							65	CCACTGCCCACC	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_127_HeadThorax	insect_127_h	5-21-2025							65	CATAAGGGAGGC	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_127_Wash	insect_127_w	5-21-2025							65	AGGAAGTAACTT	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_128_Abdomen	insect_128	5-15-2025							65	ATAGTTAGGGCT	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_128_HeadThorax	insect_128_h	5-21-2025							65	CAGGCCACTCTC	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_128_Wash	insect_128_w	5-21-2025							65	CATGATTAAGAG	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_129_Abdomen	insect_129	5-15-2025							65	GACCCGTTTCGC	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_129_HeadThorax	insect_129_h	5-21-2025							65	ACCAGAAATGTC	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_129_Wash	insect_129_w	5-21-2025							65	CTCACCTAGGAA	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_130_Abdomen	insect_130	5-15-2025							65	TGACTGCGTTAG	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_130_HeadThorax	insect_130_h	5-21-2025							65	CTCATCATGTTC	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_130_Wash	insect_130_w	5-21-2025							65	GCATTCGGCGTT	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_131_Abdomen	insect_131	5-15-2025							65	ACGTTAATATTC	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_131_HeadThorax	insect_131_h	5-21-2025							65	TTAGGATTCTAT	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_131_Wash	insect_131_w	5-21-2025							65	TCTACATACATA	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_132_Abdomen	insect_132	5-15-2025							65	TCTAACGAGTGC	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_132_HeadThorax	insect_132_h	5-21-2025							65	AGATGCAATGAT	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_132_Wash	insect_132_w	5-21-2025							65	GAGTCTTGGTAA	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_31_Wash	insect_31_w	5-21-2025							65	CAGTCTAGTACG	Insect										Chrysomya rufifacies	Exogenous	Wash					
+insect_34_Wash	insect_34_w	5-21-2025							65	CGGTTGGCGGGT	Insect										Chrysomya rufifacies	Exogenous	Wash					
+insect_36_Wash	insect_36_w	5-21-2025							65	TGCCTGCTCGAC	Insect										Chrysomya rufifacies	Exogenous	Wash					
+insect_39_Wash	insect_39_w	5-21-2025							65	ACCAGTGACTCA	Insect										Chrysomya rufifacies	Exogenous	Wash					
+insect_42_Wash	insect_42_w	5-21-2025							65	CGGCCTAAGTTC	Insect										Chrysomya rufifacies	Exogenous	Wash					
+insect_44_Wash	insect_44_w	5-21-2025							65	AGAGACGCGTAG	Insect										Chrysomya rufifacies	Exogenous	Wash					
+insect_47_Wash	insect_47_w	5-21-2025							65	TCTTACCCATAA	Insect										Chrysomya rufifacies	Exogenous	Wash					
+insect_51_Wash	insect_51_w	5-21-2025							65	ACTGCCCGATAC	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_52_Wash	insect_52_w	5-21-2025							65	TTCTTAACGCCT	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_53_Wash	insect_53_w	5-21-2025							65	CTCCCGAGCTCC	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_54_Wash	insect_54_w	5-21-2025							65	TAGACTTCAGAG	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_55_Wash	insect_55_w	5-21-2025							65	ACTTAGACTCTT	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_56_Wash	insect_56_w	5-21-2025							65	GGACCTGGATGG	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_58_Wash	insect_58_w	5-21-2025							65	ATACCGTCTTTC	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_59_Wash	insect_59_w	5-21-2025							65	TGTGCTTGTAGG	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_61_Wash	insect_61_w	5-21-2025							65	CTAACCTCATAT	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_62_Wash	insect_62_w	5-21-2025							65	GAGAATGGAAAG	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_63_Wash	insect_63_w	5-21-2025							65	AGCTTCGACAGT	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_64_Wash	insect_64_w	5-21-2025							65	AGCAACATTGCA	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_65_Wash	insect_65_w	5-21-2025							65	GCCAAGGATAGG	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_66_Wash	insect_66_w	5-21-2025							65	GAGAGGGATCAC	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_67_Wash	insect_67_w	5-21-2025							65	CATTCAGTTATA	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_68_Wash	insect_68_w	5-21-2025							65	ACGCCGAGGTAG	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_69_Wash	insect_69_w	5-21-2025							65	GTTCCATCGGCC	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_70_Wash	insect_70_w	5-21-2025							65	TGGCCGTTACTG	Insect										Cochliomyia macellaria	Exogenous	Wash					
+insect_71_Wash	insect_71_w	5-21-2025							65	CCAGATATAGCA	Insect										Hydrotea aenescens	Exogenous	Wash					
+insect_72_Wash	insect_72_w	5-21-2025							65	CTTCGGAGGGAG	Insect										Hydrotea aenescens	Exogenous	Wash					
+insect_73_Wash	insect_73_w	5-21-2025							65	TAGGAGAGACAG	Insect										Hydrotea aenescens	Exogenous	Wash					
+insect_74_Wash	insect_74_w	5-21-2025							65	TAAGAAACGTCA	Insect										Chrysomya megacephala	Exogenous	Wash					
+insect_75_Wash	insect_75_w	5-21-2025							65	GCTTCATTTCTG	Insect										Chrysomya megacephala	Exogenous	Wash					
+insect_76_Wash	insect_76_w	5-21-2025							65	AATCTAACAATT	Insect										Chrysomya megacephala	Exogenous	Wash					
+insect_78_Wash	insect_78_w	5-21-2025							65	GAACAAAGAGCG	Insect										Chrysomya megacephala	Exogenous	Wash					
+insect_80_Wash	insect_80_w	5-21-2025							65	AGGAACCAGACG	Insect										Lucilia coeruleiviridis	Exogenous	Wash					
+insect_81_Wash	insect_81_w	5-21-2025							65	TATCGTTATCGT	Insect										Lucilia coeruleiviridis	Exogenous	Wash					
+insect_82_Wash	insect_82_w	5-21-2025							65	ACCTATGGTGAA	Insect										Lucilia coeruleiviridis	Exogenous	Wash					
+insect_84_Wash	insect_84_w	5-21-2025							65	GGTGTGAGAAAG	Insect										Lucilia coeruleiviridis	Exogenous	Wash					
+insect_85_Wash	insect_85_w	5-21-2025							65	CAGTAGCGATAT	Insect										Lucilia coeruleiviridis	Exogenous	Wash					
+insect_88_Abdomen	insect_88	5-15-2025							65	TAGGACGGGAGT	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_88_HeadThorax	insect_88_h	5-21-2025							65	GATCCCACGTAC	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_88_Wash	insect_88_w	5-21-2025							65	ACACGTTTGGGT	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_89_Abdomen	insect_89	5-15-2025							65	AAGTCTTATCTC	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_89_HeadThorax	insect_89_h	5-21-2025							65	CCGCCAGCTTTG	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_89_Wash	insect_89_w	5-21-2025							65	CGTCGCAGCCTT	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_90_Abdomen	insect_90	5-15-2025							65	TTGCACCGTCGA	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_90_HeadThorax	insect_90_h	5-21-2025							65	TCATCTTGATTG	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_90_Wash	insect_90_w	5-21-2025							65	CTACTTACATCC	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_91_Abdomen	insect_91	5-15-2025							65	CTCCGAACAACA	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_91_HeadThorax	insect_91_h	5-21-2025							65	ACTGTTTACTGT	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_91_Wash	insect_91_w	5-21-2025							65	CGCACGTACCTC	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_92_Abdomen	insect_92	5-15-2025							65	AGTAGTTTCCTT	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_92_HeadThorax	insect_92_h	5-21-2025							65	GTCACGGACATT	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_92_Wash	insect_92_w	5-21-2025							65	GTCCTCGCGACT	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_93_Abdomen	insect_93	5-15-2025							65	CAGATCCCAACC	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_93_HeadThorax	insect_93_h	5-21-2025							65	GAATATACCTGG	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_93_Wash	insect_93_w	5-21-2025							65	GTGCAACCAATC	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_94_Abdomen	insect_94	5-15-2025							65	GATAGCACTCGT	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_94_HeadThorax	insect_94_h	5-21-2025							65	GAATCTGACAAC	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_94_Wash	insect_94_w	5-21-2025							65	ACCCAAGCGTTA	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_96_Abdomen	insect_96	5-15-2025							65	GTAATTGTAATT	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_96_HeadThorax	insect_96_h	5-21-2025							65	ATTGCCTTGATT	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_96_Wash	insect_96_w	5-21-2025							65	AACACCATCGAC	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_97_Abdomen	insect_97	5-15-2025							65	TGCTACAGACGT	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_97_HeadThorax	insect_97_h	5-21-2025							65	GAGCCCAAAGAG	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_97_Wash	insect_97_w	5-21-2025							65	TTATCCAGTCCT	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_98_Abdomen	insect_98	5-15-2025							65	AGGTGAGTTCTA	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_98_HeadThorax	insect_98_h	5-21-2025							65	CCATGTGGCTCC	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_98_Wash	insect_98_w	5-21-2025							65	GTTTATCTTAAG	Insect										Necrodes surinamensis	Exogenous	Wash					
+insect_99_Abdomen	insect_99	5-15-2025							65	AACGATCATAGA	Insect										Necrodes surinamensis	Endogenous	Abdomen					
+insect_99_HeadThorax	insect_99_h	5-21-2025							65	CGTTCCTTGTTA	Insect										Necrodes surinamensis	Endogenous	HeadThorax					
+insect_99_Wash	insect_99_w	5-21-2025							65	GTTCGCCGCATC	Insect										Necrodes surinamensis	Exogenous	Wash					

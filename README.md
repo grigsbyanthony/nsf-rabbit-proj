@@ -16,14 +16,23 @@
 │   │   └── taxa-bar-plots.qzv
 │   ├── greengeens2-2024.09-515-806-nb-classifier.qza
 │   ├── merged-table-filtered-all.qza # Feature table filtered of mitochrondia, archaea, chloroplasts, and Unassigned taxa
-│   ├── metadata.tsv # Last updated 2025-7-21
+│   ├── metadata.tsv # Last updated 2025-7-26
+│   ├── old-metadata.tsv # Sans estimated diversity
 │   ├── rooted-tree.qza
 │   └── taxonomy.qza
 ├── documentation/
-│   ├── core-metrics/
+│   ├── analysis/
+│   │   ├── beta-diversity/
+│   │   ├── core-metrics/
+│   │   ├── network-analysis/
+│   │   └── taxonomic-composition/
 │   └── data_processing.md # Documentation for the QIIME2 data processing pipeline
 ├── figures/
-│   └── core-metrics/
+│   ├── beta-diversity/
+│   ├── core-metrics/
+│   ├── network-analysis/
+│   ├── psd-files/
+│   └── taxonomimc-composition/
 ├── LICENSE
 └── README.md
 ```

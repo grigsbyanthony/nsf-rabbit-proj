@@ -33,6 +33,12 @@
 │   ├── network-analysis/
 │   ├── psd-files/
 │   └── taxonomimc-composition/
+├── hypotheses/
+│   ├── experimental-design-effects-and-ecological-scaling/
+│   ├── insect-mediated-microbial-transfer-and-communtiy-assembly/
+│   ├── multi-domain-interactions-and-ecosystem-function/
+│   ├── spatial-heterogeneity-and-microhabitat-effects/
+│   └── temporal-succession-and-predictability/
 ├── LICENSE
 └── README.md
 ```
